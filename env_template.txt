@@ -1,0 +1,5 @@
+# VetScribe AI Environment Variables
+# Copy this content to a new file named ".env" (without quotes)
+# Replace "your_new_api_key_here" with your actual OpenAI API key
+
+OPENAI_API_KEY=your_new_api_key_here

@@ -1,0 +1,1438 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "date": "2025-09-17 12:45",
+      "patient_name": "Noah",
+      "client_name": "Leo",
+      "species": "Dog",
+      "breed": "French Bull dog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Sick Visit",
+      "template_type": "SOAP Note",
+      "original_notes": "Hi, my dog Noah. He's a French Bulldog, two years old. He's been having stomach problems. He's been puking a lot, foamy. Usually it's just two times a day he's been puking. I usually just feed him a raw diet on goat meat. I'm not sure, he's kind of low on energy as well and he's sleeping more than usual, just not as playful. Okay, let's let's take a look at you know some of his vitals right now. His temperature is about a hundred and one. His skin looks okay and his eyes are okay. I'm just feeling his abdominal right now appears soft, doesn't have any thing too out-of-the-ordinary. There's no masses. Yeah, his BPM seems to be normal, about 25 and yeah he seems to be okay. I think maybe there should be some gastroenteritis with him and he's probably slightly stressed. That's why he's probably low on energy. Has he been drinking water? Yeah, he's been drinking water pretty regularly, nothing out of the ordinary. Okay, cool. I think we should probably keep him with a bland diet of you know two to three days. Maybe just some chicken. Monitor him closely at home. Let's recheck in three days and see if there's anything. If you know he comes back, he's puking even more and has more diarrhea or is worsening, his lethargy is worsening, then call immediately.",
+      "soap_note": "SUBJECTIVE: The client, Leo, reports that his 2-year-old neutered French Bulldog, Noah, has been experiencing stomach problems. Noah has been vomiting frequently, about two times a day, with the vomit appearing foamy. Noah's diet consists of raw goat meat. The client also reports that Noah has been low on energy, sleeping more than usual, and is less playful. Noah has been drinking water regularly.\n\nOBJECTIVE: Upon examination, Noah's temperature is 101. His skin and eyes appear normal. Abdominal palpation reveals a soft abdomen with no noticeable masses. Noah's BPM is approximately 25, which is within normal range.\n\nASSESSMENT: The veterinarian suspects gastroenteritis and stress as possible causes for Noah's symptoms, including his decreased energy levels.\n\nPLAN: The veterinarian recommends switching Noah to a bland diet, such as chicken, for two to three days and monitoring him closely at home. A recheck is scheduled in three days. The client is advised to call immediately if Noah's vomiting increases, if he develops diarrhea, or if his lethargy worsens.",
+      "client_summary": "Dear Leo,\n\nDuring Noah's visit today, we discussed your concerns about his recent stomach problems, including vomiting and decreased energy levels. Noah's physical examination, including checking his temperature, skin, eyes, and feeling his abdomen, didn't reveal anything unusual. His heart rate is normal and he's been drinking water regularly, which is a good sign.\n\nNoah's symptoms suggest he may have gastroenteritis, which is inflammation of the stomach and intestines. This can often be caused by dietary issues and can lead to a decrease in energy levels. It's also possible that Noah is experiencing some stress, which can contribute to these symptoms.\n\nTo help Noah feel better, we're going to change his diet for a few days. Instead of his usual raw goat meat, we'd like you to feed him a bland diet, such as cooked chicken. This can be easier on his stomach and help reduce his vomiting.\n\nIt's important to monitor Noah closely at home over the next few days. If his vomiting increases, if he develops diarrhea, or if his energy levels continue to decrease, please call us immediately. We'll need to see him again in three days to check on his progress. If his symptoms have improved, we can discuss reintroducing his regular diet slowly.\n\nWe understand how worrying it can be when your pet isn't feeling well. Rest assured, we're here to help Noah get back to his playful self. Please don't hesitate to reach out if you have any questions or concerns.\n\nBest,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "Hi, my dog Noah. He's a French Bulldog, two years old. He's been having stomach problems. He's been puking a lot, foamy. Usually it's just two times a day he's been puking. I usually just feed him a raw diet on goat meat. I'm not sure, he's kind of low on energy as well and he's sleeping more than usual, just not as playful. Okay, let's let's take a look at you know some of his vitals right now. His temperature is about a hundred and one. His skin looks okay and his eyes are okay. I'm just feeling his abdominal right now appears soft, doesn't have any thing too out-of-the-ordinary. There's no masses. Yeah, his BPM seems to be normal, about 25 and yeah he seems to be okay. I think maybe there should be some gastroenteritis with him and he's probably slightly stressed. That's why he's probably low on energy. Has he been drinking water? Yeah, he's been drinking water pretty regularly, nothing out of the ordinary. Okay, cool. I think we should probably keep him with a bland diet of you know two to three days. Maybe just some chicken. Monitor him closely at home. Let's recheck in three days and see if there's anything. If you know he comes back, he's puking even more and has more diarrhea or is worsening, his lethargy is worsening, then call immediately.\n",
+      "client_email": "Subject: Follow-Up on Noah's Recent Veterinary Visit\n\nDear Leo,\n\nI hope this email finds you well. This is a follow-up regarding your French Bulldog, Noah's recent visit to our clinic. \n\nDuring the visit, we noted that Noah has been experiencing stomach problems, including vomiting approximately twice a day with a foamy consistency. You also mentioned that he has been less energetic than usual and has been sleeping more. \n\nUpon examination, Noah's vitals were checked and found to be within normal ranges. His temperature was around 101 degrees, his skin and eyes appeared healthy, and his abdominal area was soft without any unusual masses. His heart rate was also normal at about 25 beats per minute. \n\nBased on these observations, it was suggested that Noah might be dealing with gastroenteritis and could be slightly stressed, which might explain his low energy levels. You confirmed that he has been drinking water regularly, which is a good sign.\n\nAs discussed during the visit, it was recommended to switch Noah to a bland diet for two to three days, perhaps some chicken, and to monitor him closely at home. We are scheduled to recheck Noah's condition in three days. \n\nPlease remember, if Noah's condition worsens, such as increased vomiting, the onset of diarrhea, or increased lethargy, please contact us immediately. \n\nThank you for entrusting us with Noah's care. We look forward to seeing you and Noah in three days for his follow-up appointment.\n\nBest regards,\n\n[Your Name]\n[Your Position]"
+    },
+    {
+      "id": 2,
+      "date": "2025-09-17 12:46",
+      "patient_name": "Noah",
+      "client_name": "Leo",
+      "species": "Dog",
+      "breed": "French Bull dog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Sick Visit",
+      "template_type": "SOAP Note",
+      "original_notes": "Hi, my dog Noah. He's a French Bulldog, two years old. He's been having stomach problems. He's been puking a lot, foamy. Usually it's just two times a day he's been puking. I usually just feed him a raw diet on goat meat. I'm not sure, he's kind of low on energy as well and he's sleeping more than usual, just not as playful. Okay, let's let's take a look at you know some of his vitals right now. His temperature is about a hundred and one. His skin looks okay and his eyes are okay. I'm just feeling his abdominal right now appears soft, doesn't have any thing too out-of-the-ordinary. There's no masses. Yeah, his BPM seems to be normal, about 25 and yeah he seems to be okay. I think maybe there should be some gastroenteritis with him and he's probably slightly stressed. That's why he's probably low on energy. Has he been drinking water? Yeah, he's been drinking water pretty regularly, nothing out of the ordinary. Okay, cool. I think we should probably keep him with a bland diet of you know two to three days. Maybe just some chicken. Monitor him closely at home. Let's recheck in three days and see if there's anything. If you know he comes back, he's puking even more and has more diarrhea or is worsening, his lethargy is worsening, then call immediately.",
+      "soap_note": "SUBJECTIVE: The client, Leo, reports that his 2-year-old neutered French Bulldog, Noah, has been experiencing stomach problems. Noah has been vomiting frequently, about two times a day, with the vomit appearing foamy. The dog has also been displaying low energy levels and sleeping more than usual. Noah's diet consists of raw goat meat. The client also reports that Noah's water intake has been regular.\n\nOBJECTIVE: Upon examination, Noah's temperature is 101. His skin and eyes appear normal. Abdominal palpation reveals a soft abdomen with no noticeable masses. His BPM is approximately 25. \n\nASSESSMENT: The veterinarian suspects gastroenteritis and stress as possible causes for Noah's symptoms.\n\nPLAN: The veterinarian recommends switching Noah to a bland diet, such as chicken, for the next two to three days. The client is advised to monitor Noah closely at home and return for a recheck in three days. If Noah's vomiting, diarrhea, or lethargy worsens, the client is instructed to call the clinic immediately.",
+      "client_summary": "Dear Leo,\n\nDuring Noah's visit today, we discussed your concerns about his recent stomach problems and decreased energy levels. Noah, your two-year-old French Bulldog, has been vomiting more frequently than usual and seems to be less playful and more tired.\n\nUpon examination, Noah's vital signs, including his temperature and heart rate, were normal. His skin and eyes appeared healthy, and his abdomen felt normal without any unusual masses. These are all good signs.\n\nHowever, his symptoms suggest he may have gastroenteritis, which is inflammation of the stomach and intestines. This could be causing his vomiting and decreased energy levels. It's also possible that Noah is feeling a bit stressed, which can contribute to these symptoms.\n\nNoah's hydration levels seem fine as he's been drinking water regularly, which is important for his recovery.\n\nFor the next two to three days, I recommend switching Noah's diet to something bland, like chicken. This can be easier on his stomach and help alleviate his symptoms. Please continue to monitor Noah closely at home, especially his energy levels, vomiting, and any changes in his bowel movements.\n\nWe should recheck Noah in three days to see how he's doing. If his vomiting increases, if he develops diarrhea, or if his energy levels continue to decrease, please call us immediately. These could be signs that his condition is worsening and he needs further medical attention.\n\nRemember, we're here to help Noah feel better. Please don't hesitate to reach out if you have any questions or concerns.\n\nBest,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "Hi, my dog Noah. He's a French Bulldog, two years old. He's been having stomach problems. He's been puking a lot, foamy. Usually it's just two times a day he's been puking. I usually just feed him a raw diet on goat meat. I'm not sure, he's kind of low on energy as well and he's sleeping more than usual, just not as playful. Okay, let's let's take a look at you know some of his vitals right now. His temperature is about a hundred and one. His skin looks okay and his eyes are okay. I'm just feeling his abdominal right now appears soft, doesn't have any thing too out-of-the-ordinary. There's no masses. Yeah, his BPM seems to be normal, about 25 and yeah he seems to be okay. I think maybe there should be some gastroenteritis with him and he's probably slightly stressed. That's why he's probably low on energy. Has he been drinking water? Yeah, he's been drinking water pretty regularly, nothing out of the ordinary. Okay, cool. I think we should probably keep him with a bland diet of you know two to three days. Maybe just some chicken. Monitor him closely at home. Let's recheck in three days and see if there's anything. If you know he comes back, he's puking even more and has more diarrhea or is worsening, his lethargy is worsening, then call immediately.\n",
+      "client_email": "Subject: Follow-Up on Noah's Recent Veterinary Visit\n\nDear Leo,\n\nI hope this message finds you well. This email is a follow-up on your French Bulldog, Noah's recent visit to our clinic. \n\nDuring the visit, we noted that Noah has been experiencing stomach problems, including vomiting two times a day, and has been less energetic than usual. We also noted that Noah has been on a raw diet of goat meat. \n\nUpon examination, Noah's vitals were checked. His temperature was around 101, his skin and eyes appeared normal, and his abdominal area was soft with no unusual masses. His BPM was also within the normal range at about 25. \n\nBased on these observations, it was suggested that Noah may be experiencing gastroenteritis and could be slightly stressed, which might explain his low energy. It was also noted that Noah has been drinking water regularly.\n\nAs discussed during the visit, it was recommended to switch Noah to a bland diet, such as chicken, for two to three days and to monitor him closely at home. A recheck was suggested in three days. \n\nPlease remember, if Noah's condition worsens, such as increased vomiting, more diarrhea, or worsening lethargy, you should call us immediately.\n\nThank you for entrusting us with Noah's care. We look forward to seeing you both at the follow-up appointment.\n\nBest regards,\n\n[Your Name]\n[Your Position]"
+    },
+    {
+      "id": 3,
+      "date": "2025-09-17 13:19",
+      "patient_name": "Buddy",
+      "client_name": "Amelia ",
+      "species": "Dog",
+      "breed": "french bull dog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "15kg",
+      "appointment_type": "Sick Visit",
+      "template_type": "SOAP Note",
+      "original_notes": "Hi there, so I've been puking for 2-3 days. I've been feeding it pretty normal. It eats kibbles and drinking water pretty regularly. Energy is kind of low. Okay, let me just take a look. It's heart rate is 101. Seems like he's pretty normal there. BPM is at 25. That's pretty normal. Abdominal is soft. No masses. I think maybe it's just a little bit lethargic and maybe has gastroenteritis. Let's give him a bland diet of boiled beef and rice for 2-3 days. Monitor him closely and bring him back in a few days to see if he's okay.",
+      "soap_note": "SUBJECTIVE: \nThe client, Amelia, reports that her dog, Buddy, has been vomiting for the past 2-3 days. She has been feeding him normally, and he has been eating kibbles and drinking water regularly. However, she notes that his energy level is somewhat low.\n\nOBJECTIVE: \nBuddy, a 2-year-old neutered male French Bulldog weighing 15kg, has a heart rate of 101 and a BPM of 25. His abdominal examination reveals a soft abdomen with no masses.\n\nASSESSMENT: \nThe veterinarian suspects that Buddy may be a little lethargic and possibly has gastroenteritis.\n\nPLAN: \nThe veterinarian recommends a bland diet of boiled beef and rice for 2-3 days. Amelia is to monitor Buddy closely and bring him back for a follow-up visit in a few days to assess his condition.",
+      "client_summary": "Dear Amelia,\n\nDuring Buddy's visit today, we noticed that he has been vomiting for the past 2-3 days and his energy levels are a bit low. Despite this, he's been eating his regular kibble and drinking water as usual. \n\nUpon examination, Buddy's heart rate and breathing rate were both within normal ranges, which is a good sign. His abdomen was soft and we didn't find any unusual masses, which is also positive. \n\nBased on these findings, we suspect that Buddy might have gastroenteritis, which is an inflammation of the stomach and intestines. This could be the reason for his vomiting and decreased energy levels.\n\nTo help Buddy recover, we recommend switching his diet to boiled beef and rice for the next 2-3 days. This bland diet is easier on his stomach and should help alleviate his symptoms. \n\nIt's important to keep a close eye on Buddy during this time. If his condition doesn't improve or if it worsens, please bring him back to the clinic for a follow-up visit. \n\nWe understand that it's worrying when Buddy isn't feeling well, but please rest assured that we're doing everything we can to help him get back to his normal, playful self. \n\nBest regards,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "Hi there, so I've been puking for 2-3 days. I've been feeding it pretty normal. It eats kibbles and drinking water pretty regularly. Energy is kind of low. Okay, let me just take a look. It's heart rate is 101. Seems like he's pretty normal there. BPM is at 25. That's pretty normal. Abdominal is soft. No masses. I think maybe it's just a little bit lethargic and maybe has gastroenteritis. Let's give him a bland diet of boiled beef and rice for 2-3 days. Monitor him closely and bring him back in a few days to see if he's okay.\n"
+    },
+    {
+      "id": 4,
+      "date": "2025-09-17 13:19",
+      "patient_name": "Buddy",
+      "client_name": "Amelia ",
+      "species": "Dog",
+      "breed": "french bull dog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "15kg",
+      "appointment_type": "Sick Visit",
+      "template_type": "SOAP Note",
+      "original_notes": "Hi there, so I've been puking for 2-3 days. I've been feeding it pretty normal. It eats kibbles and drinking water pretty regularly. Energy is kind of low. Okay, let me just take a look. It's heart rate is 101. Seems like he's pretty normal there. BPM is at 25. That's pretty normal. Abdominal is soft. No masses. I think maybe it's just a little bit lethargic and maybe has gastroenteritis. Let's give him a bland diet of boiled beef and rice for 2-3 days. Monitor him closely and bring him back in a few days to see if he's okay.",
+      "soap_note": "SUBJECTIVE: The client, Amelia, reports that her dog, Buddy, has been vomiting for the past 2-3 days. She states that Buddy has been eating his regular diet of kibbles and drinking water normally. However, she notes that his energy level seems to be lower than usual.\n\nOBJECTIVE: Upon examination, Buddy's heart rate is 101 and his BPM is at 25. His abdomen is soft with no detectable masses. \n\nASSESSMENT: The veterinarian suspects that Buddy may be a bit lethargic and possibly has gastroenteritis.\n\nPLAN: The veterinarian recommends a bland diet of boiled beef and rice for Buddy for the next 2-3 days. Amelia is advised to monitor Buddy closely and bring him back for a follow-up visit in a few days to assess his condition.",
+      "client_summary": "Dear Amelia,\n\nDuring Buddy's visit today, we noticed that he's been feeling a bit under the weather. He's been vomiting for the past 2-3 days and his energy levels are a bit lower than usual. Despite this, he's still eating his regular kibble and drinking water, which is a good sign.\n\nWe checked Buddy's heart rate and breathing rate, both of which are within the normal range for a dog of his size and breed. We also examined his abdomen and found it to be soft and without any unusual masses. These are all positive signs.\n\nBased on these findings, we suspect that Buddy might have gastroenteritis, which is a fancy way of saying he might have an upset stomach. This could be the reason for his vomiting and lower energy levels.\n\nTo help Buddy feel better, we recommend switching him to a bland diet of boiled beef and rice for the next 2-3 days. This type of food is easier on his stomach and should help him recover. \n\nPlease keep a close eye on Buddy during this time. If his condition doesn't improve or if it worsens, please bring him back to the clinic for a follow-up visit. We want to make sure he's on the mend and back to his normal, playful self soon.\n\nThank you for trusting us with Buddy's care. We understand how worrying it can be when your pet isn't feeling well, and we're here to help in any way we can.\n\nBest,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "Hi there, so I've been puking for 2-3 days. I've been feeding it pretty normal. It eats kibbles and drinking water pretty regularly. Energy is kind of low. Okay, let me just take a look. It's heart rate is 101. Seems like he's pretty normal there. BPM is at 25. That's pretty normal. Abdominal is soft. No masses. I think maybe it's just a little bit lethargic and maybe has gastroenteritis. Let's give him a bland diet of boiled beef and rice for 2-3 days. Monitor him closely and bring him back in a few days to see if he's okay.\n"
+    },
+    {
+      "id": 5,
+      "date": "2025-09-17 13:20",
+      "patient_name": "Buddy",
+      "client_name": "Amelia ",
+      "species": "Dog",
+      "breed": "french bull dog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "15kg",
+      "appointment_type": "Sick Visit",
+      "template_type": "SOAP Note",
+      "original_notes": "Hi there, so I've been puking for 2-3 days. I've been feeding it pretty normal. It eats kibbles and drinking water pretty regularly. Energy is kind of low. Okay, let me just take a look. It's heart rate is 101. Seems like he's pretty normal there. BPM is at 25. That's pretty normal. Abdominal is soft. No masses. I think maybe it's just a little bit lethargic and maybe has gastroenteritis. Let's give him a bland diet of boiled beef and rice for 2-3 days. Monitor him closely and bring him back in a few days to see if he's okay.",
+      "soap_note": "SUBJECTIVE: The client, Amelia, reports that her dog, Buddy, has been vomiting for the past 2-3 days. She has been feeding him normally, and he has been eating kibbles and drinking water regularly. However, she notes that his energy level is somewhat low.\n\nOBJECTIVE: Upon examination, Buddy's heart rate is 101 and his BPM is at 25. His abdomen is soft with no detectable masses. \n\nASSESSMENT: The veterinarian suspects that Buddy may be a bit lethargic and possibly has gastroenteritis.\n\nPLAN: The veterinarian recommends feeding Buddy a bland diet of boiled beef and rice for the next 2-3 days. Amelia is to monitor Buddy closely and bring him back for a follow-up visit in a few days to assess his condition.",
+      "client_summary": "Dear Amelia,\n\nDuring Buddy's visit today, we noticed that he's been feeling a bit under the weather. He's been vomiting for the past 2-3 days and his energy levels are a bit lower than usual. Despite this, he's still eating his regular kibble and drinking water, which is a good sign.\n\nWe checked Buddy's heart rate and breathing rate, both of which are within the normal range for a dog of his size and breed. We also examined his abdomen and found it to be soft and without any unusual masses, which is also a positive sign.\n\nBased on these findings, we suspect that Buddy might have gastroenteritis, which is a fancy way of saying he might have an upset stomach. This could be the reason for his vomiting and lower energy levels.\n\nTo help Buddy feel better, we recommend switching his diet to boiled beef and rice for the next 2-3 days. This bland diet can be easier on his stomach and help him recover. It's important to keep a close eye on him during this time and monitor his condition.\n\nIf Buddy's condition doesn't improve in a few days, or if it worsens, please bring him back for a follow-up visit. We want to make sure he gets back to his normal, playful self as soon as possible.\n\nThank you for bringing Buddy in today. We know it's tough when your furry friend isn't feeling well, but rest assured we're doing everything we can to help him feel better.\n\nBest,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "Hi there, so I've been puking for 2-3 days. I've been feeding it pretty normal. It eats kibbles and drinking water pretty regularly. Energy is kind of low. Okay, let me just take a look. It's heart rate is 101. Seems like he's pretty normal there. BPM is at 25. That's pretty normal. Abdominal is soft. No masses. I think maybe it's just a little bit lethargic and maybe has gastroenteritis. Let's give him a bland diet of boiled beef and rice for 2-3 days. Monitor him closely and bring him back in a few days to see if he's okay.\n"
+    },
+    {
+      "id": 6,
+      "date": "2025-09-17 13:27",
+      "patient_name": "Bud ",
+      "client_name": "Leo",
+      "species": "Dog",
+      "breed": "french bulldog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "23",
+      "appointment_type": "Wellness Exam",
+      "template_type": "SOAP Note",
+      "original_notes": "I assume my friend shouldn't be having stomach issues, he's been puking a lot, been feeding at raw goat meat. Okay, let's take a look. It seems to me that everything, his physical exam looks okay, he's about 102 temperature, his heart rate's 90 bpm, which is normal, abdominal seems soft, no masses palpitated, so he seems to be okay, he might just have some gastroentitis, let's give him a raw diet, a bland diet of chicken and rice, let's monitor him for 2-3 days and see if he's okay.",
+      "soap_note": "SUBJECTIVE: The client, Leo, reports that his 2-year-old neutered male French Bulldog, Bud, has been experiencing stomach issues and vomiting. Bud has been fed raw goat meat.\n\nOBJECTIVE: Physical examination of Bud reveals a temperature of 102, a heart rate of 90 bpm, and a soft abdomen with no palpable masses. His weight is 23 (unit not provided).\n\nASSESSMENT: The veterinarian suspects gastroenteritis.\n\nPLAN: The veterinarian recommends switching Bud to a bland diet of chicken and rice and monitoring his condition for 2-3 days.",
+      "client_summary": "Dear Leo,\n\nDuring Bud's wellness exam today, we discussed your concerns about his recent stomach issues and vomiting. It's understandable to be worried when your pet isn't feeling well.\n\nUpon examination, Bud appears to be in good health. His temperature is normal at 102 degrees, and his heart rate is also within the normal range at 90 beats per minute. His abdomen is soft and I didn't feel any unusual masses, which is a good sign.\n\nBud's symptoms suggest he may have gastroenteritis, which is inflammation of the stomach and intestines. This can often be caused by dietary issues. You mentioned that you've been feeding Bud raw goat meat. While some dogs can handle a raw diet, it's possible that this may be causing Bud's stomach upset.\n\nTo help Bud's stomach recover, I recommend switching him to a bland diet of chicken and rice for the next 2-3 days. This is easier on his digestive system and should help alleviate his symptoms. \n\nPlease monitor Bud closely over the next few days. If his symptoms persist or worsen, or if you notice any new symptoms, please bring him back in for a follow-up visit. \n\nRemember, it's important to gradually introduce new foods into Bud's diet to avoid upsetting his stomach. If you decide to switch back to the raw diet, please do so slowly and monitor Bud for any signs of discomfort.\n\nThank you for bringing Bud in today. It's clear you care deeply for him and want the best for his health. Please don't hesitate to reach out if you have any further questions or concerns.\n\nBest,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "I assume my friend shouldn't be having stomach issues, he's been puking a lot, been feeding at raw goat meat. Okay, let's take a look. It seems to me that everything, his physical exam looks okay, he's about 102 temperature, his heart rate's 90 bpm, which is normal, abdominal seems soft, no masses palpitated, so he seems to be okay, he might just have some gastroentitis, let's give him a raw diet, a bland diet of chicken and rice, let's monitor him for 2-3 days and see if he's okay.\n"
+    },
+    {
+      "id": 7,
+      "date": "2025-09-17 13:27",
+      "patient_name": "Bud ",
+      "client_name": "Leo",
+      "species": "Dog",
+      "breed": "french bulldog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "23",
+      "appointment_type": "Wellness Exam",
+      "template_type": "SOAP Note",
+      "original_notes": "I assume my friend shouldn't be having stomach issues, he's been puking a lot, been feeding at raw goat meat. Okay, let's take a look. It seems to me that everything, his physical exam looks okay, he's about 102 temperature, his heart rate's 90 bpm, which is normal, abdominal seems soft, no masses palpitated, so he seems to be okay, he might just have some gastroentitis, let's give him a raw diet, a bland diet of chicken and rice, let's monitor him for 2-3 days and see if he's okay.",
+      "soap_note": "SUBJECTIVE: The client, Leo, reports that his 2-year-old neutered male French Bulldog, Bud, has been experiencing frequent vomiting. Bud has been fed raw goat meat.\n\nOBJECTIVE: Bud's physical examination results are normal. His temperature is 102 degrees, heart rate is 90 bpm, and his abdomen is soft with no palpable masses. \n\nASSESSMENT: The veterinarian suspects gastroenteritis.\n\nPLAN: The veterinarian recommends switching Bud to a bland diet of chicken and rice. Bud's condition should be monitored for the next 2-3 days.",
+      "client_summary": "Dear Leo,\n\nDuring Bud's wellness exam today, we discussed your concerns about his recent stomach issues and vomiting. It's understandable to be worried when your pet isn't feeling well.\n\nUpon examination, Bud appears to be in good health overall. His temperature is normal at 102 degrees, and his heart rate is also within the normal range at 90 beats per minute. His abdomen is soft and I didn't feel any unusual masses, which is a good sign.\n\nGiven his symptoms and the fact that he's been eating raw goat meat, it's possible that Bud may have gastroenteritis, which is inflammation of the stomach and intestines. This can often cause vomiting and can be triggered by certain foods.\n\nTo help Bud's stomach recover, I recommend switching him to a bland diet of chicken and rice for the next 2-3 days. This type of diet is easier on the stomach and can help reduce vomiting.\n\nPlease monitor Bud closely over the next few days and see if his symptoms improve with the diet change. If he continues to vomit or if his condition worsens in any way, please bring him back in for a follow-up visit.\n\nThank you for bringing Bud in today. It's clear that you care deeply for him and want the best for his health. Please don't hesitate to reach out if you have any further questions or concerns.\n\nBest,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "I assume my friend shouldn't be having stomach issues, he's been puking a lot, been feeding at raw goat meat. Okay, let's take a look. It seems to me that everything, his physical exam looks okay, he's about 102 temperature, his heart rate's 90 bpm, which is normal, abdominal seems soft, no masses palpitated, so he seems to be okay, he might just have some gastroentitis, let's give him a raw diet, a bland diet of chicken and rice, let's monitor him for 2-3 days and see if he's okay.\n"
+    },
+    {
+      "id": 8,
+      "date": "2025-09-17 13:34",
+      "patient_name": "Gooby",
+      "client_name": "Leo",
+      "species": "Dog",
+      "breed": "french bulldog ",
+      "age": "2 ",
+      "sex": "Male Neutered",
+      "weight": "15",
+      "appointment_type": "Wellness Exam",
+      "template_type": "SOAP Note",
+      "original_notes": "My dog is having a yellow brownish beard 2-3 days, feeding it a raw goat diet. He's been drinking water. Okay, let's take a look. Seems to me his BPM is normal at about 90 BPM. His abdominal seems soft, no masses palpitated. Everything seems to be okay. I think he might have gastroenteritis and may be straightly stressed. Let's monitor for another 2-3 days and then come back for another appointment.",
+      "soap_note": "SUBJECTIVE: The client, Leo, reports that his dog, Gooby, a 2-year-old neutered male French Bulldog, has been having a yellow-brownish beard for the past 2-3 days. Gooby has been on a raw goat diet and has been drinking water.\n\nOBJECTIVE: Upon examination, Gooby's BPM was found to be normal at about 90 BPM. His abdomen was soft with no palpable masses. No other abnormalities were noted.\n\nASSESSMENT: The veterinarian suspects that Gooby might have gastroenteritis and may be experiencing stress.\n\nPLAN: The veterinarian recommends monitoring Gooby for another 2-3 days and then returning for a follow-up appointment.",
+      "client_summary": "Dear Leo,\n\nThank you for bringing Gooby in for his wellness exam today. I understand that you've noticed a yellow-brownish discoloration on his beard for the past 2-3 days and that he's been on a raw goat diet. \n\nDuring the examination, I checked Gooby's heart rate, which was normal at about 90 beats per minute. I also examined his abdomen, which felt soft and I didn't find any unusual masses. Overall, Gooby seems to be in good health.\n\nHowever, the discoloration on his beard could be a sign of gastroenteritis, which is an inflammation of the stomach and intestines. This can sometimes be caused by stress. It's not a major concern at this point, but we should keep an eye on it.\n\nFor the next 2-3 days, please continue to monitor Gooby's condition at home. If you notice any changes in his behavior, eating habits, or if the discoloration on his beard continues, please bring him back for another appointment. \n\nRemember, it's important to keep Gooby hydrated, so make sure he has access to fresh water at all times. \n\nThank you for your attention to Gooby's health. We'll be here to support you and Gooby every step of the way.\n\nBest regards,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "My dog is having a yellow brownish beard 2-3 days, feeding it a raw goat diet. He's been drinking water. Okay, let's take a look. Seems to me his BPM is normal at about 90 BPM. His abdominal seems soft, no masses palpitated. Everything seems to be okay. I think he might have gastroenteritis and may be straightly stressed. Let's monitor for another 2-3 days and then come back for another appointment.\n"
+    },
+    {
+      "id": 9,
+      "date": "2025-09-17 13:41",
+      "patient_name": "leo",
+      "client_name": "john smith",
+      "species": "Dog",
+      "breed": "french bull dog ",
+      "age": "",
+      "sex": "Male Neutered",
+      "weight": "",
+      "appointment_type": "Wellness Exam",
+      "template_type": "SOAP Note",
+      "original_notes": "My dog been peeing like brownish stuff Been feeding a raw goat meat for the most part. He's a little bit low in energy. Okay, let's take a look Seems like his heart rate is it's pretty normal at 90 BPM His regular rhythm heart no murmurs Lungs seem to be clear abdominal soft. No masses palpitated Hydration is he drinking water? Yes, he's drinking water. Okay, cool He might have Some gastroentitis and it's slightly stressed. Maybe we should put him on a bland diet simple chicken and rice for two three days I monitor closely let's recheck in the next three four days and If he has any other issues and they come back",
+      "soap_note": "SUBJECTIVE: \nThe client, John Smith, reports that his neutered male French Bulldog, Leo, has been urinating brownish stuff and has been a bit low in energy. The dog has been primarily fed a diet of raw goat meat. The dog is drinking water.\n\nOBJECTIVE: \nLeo's heart rate is normal at 90 BPM with a regular rhythm and no murmurs. His lungs are clear and his abdomen is soft with no masses palpitated. \n\nASSESSMENT: \nThe veterinarian suspects that Leo might have some gastroenteritis and is slightly stressed.\n\nPLAN: \nThe veterinarian recommends putting Leo on a bland diet of simple chicken and rice for two to three days and monitoring him closely. A recheck is suggested in the next three to four days. If Leo has any other issues, the client should bring him back.",
+      "client_summary": "Dear Mr. Smith,\n\nDuring Leo's wellness exam today, we noticed a few things that we wanted to discuss with you. Leo has been urinating a brownish color and has been a bit low on energy. These symptoms could be signs of a condition called gastroenteritis, which is an inflammation of the stomach and intestines. This can sometimes be caused by stress or a change in diet.\n\nLeo's heart rate and rhythm were normal, and his lungs were clear. We didn't find any masses in his abdomen, and he seems to be staying hydrated, which is good news.\n\nTo help Leo feel better, we recommend switching him to a bland diet of simple chicken and rice for the next two to three days. This can be easier on his stomach and help him recover. Please monitor him closely during this time.\n\nWe would like to recheck Leo in the next three to four days to see how he's doing. If he has any other issues or if his symptoms don't improve, please bring him back in right away.\n\nThank you for bringing Leo in today. We know it can be worrying when your pet isn't feeling well, but we're here to help. Please don't hesitate to reach out if you have any questions or concerns.\n\nBest,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "My dog been peeing like brownish stuff Been feeding a raw goat meat for the most part. He's a little bit low in energy. Okay, let's take a look Seems like his heart rate is it's pretty normal at 90 BPM His regular rhythm heart no murmurs Lungs seem to be clear abdominal soft. No masses palpitated Hydration is he drinking water? Yes, he's drinking water. Okay, cool He might have Some gastroentitis and it's slightly stressed. Maybe we should put him on a bland diet simple chicken and rice for two three days I monitor closely let's recheck in the next three four days and If he has any other issues and they come back\n",
+      "client_email": "Subject: Follow-Up on Leo's Recent Veterinary Visit\n\nDear Mr. Smith,\n\nI hope this email finds you well. This is a follow-up regarding your recent visit to our clinic with your dog, Leo.\n\nDuring the visit, we noted that Leo had been urinating a brownish substance and had been a bit low on energy. You mentioned that you have been feeding him raw goat meat for the most part. Upon examination, Leo's heart rate was normal at 90 BPM with a regular rhythm and no murmurs. His lungs were clear, and his abdomen was soft with no masses palpitated. You confirmed that Leo has been drinking water regularly.\n\nBased on these observations, it was suggested that Leo might have some gastroenteritis and could be slightly stressed. As discussed during the visit, it was recommended to put Leo on a bland diet of simple chicken and rice for two to three days and to monitor him closely.\n\nWe would like to recheck Leo in the next three to four days to ensure his condition is improving. If he exhibits any other issues, please do not hesitate to bring him back to our clinic.\n\nThank you for entrusting us with Leo's care. We look forward to seeing you and Leo soon.\n\nBest regards,\n\n[Your Name]\n[Your Position]"
+    },
+    {
+      "id": 10,
+      "date": "2025-09-17 14:14",
+      "patient_name": "Noahboy",
+      "client_name": "Johnny Walker",
+      "species": "Dog",
+      "breed": "french Bulldog",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "15",
+      "appointment_type": "Surgery Consultation",
+      "template_type": "SOAP Note",
+      "original_notes": "hi there so my dog is two years old he's a Frenchie he hasn't been puking a lot maybe this whole week at least twice a day his puke is often yellowish brown and I've been feeding him pretty normally usually just his typical diet which consists of raw goat meat with some pumpkin his energy level seems to be not that good he's sleeping a lot more not as playful okay let's check his a little bit of a physical examination on him right now just to see if everything's okay it seems to me that his you know his weight has gone down a little bit he was 34 now he's 32 kilograms his temperature is 102.1 which is slightly elevated and his BPM is around 90 which is pretty normal his heart it's pretty regular no no murmurs hurt or anything just checked his abdomen and it's soft no masses palpated and doesn't seem to have any pain I think he might have viral gastroentitis and is fairly stressed right now I suppose we should probably give him a bland diet for the next three days maybe some boiled chicken and rice and monitor him closely at home let's recheck in three days to see if there's any improvements if there's more vomiting and diarrhea maybe you should return immediately and talk to me we should maybe also give him some probiotics I'll prescribe some probiotics for him as well and let's see if he gets any improvement in the next few days",
+      "soap_note": "SUBJECTIVE: The client, Johnny Walker, reports that his 2-year-old neutered male French Bulldog, Noahboy, has been vomiting frequently for the past week, approximately twice a day. The vomit is often yellowish-brown. The dog's diet consists of raw goat meat with some pumpkin. The client also notes a decrease in the dog's energy level, with increased sleep and decreased playfulness.\n\nOBJECTIVE: Upon physical examination, the dog's weight has decreased from 34 to 32 kilograms. His temperature is slightly elevated at 102.1. His BPM is around 90, which is considered normal. Heart sounds are regular with no murmurs detected. The abdomen is soft with no masses palpated and no apparent pain. \n\nASSESSMENT: The veterinarian suspects viral gastroenteritis and notes that the dog appears to be fairly stressed.\n\nPLAN: The veterinarian recommends a bland diet of boiled chicken and rice for the next three days and close monitoring at home. A recheck is scheduled in three days to assess any improvements. If there is more vomiting and diarrhea, the client is advised to return immediately. Probiotics are also prescribed for the dog.",
+      "client_summary": "Dear Johnny,\n\nDuring Noahboy's visit today, we noticed that he has been vomiting more than usual and his energy levels have been lower than normal. His weight has also decreased slightly. His physical examination showed that his temperature is a bit higher than normal, but his heart rate is normal and his abdomen feels normal. \n\nBased on these findings, it's possible that Noahboy may have a viral stomach condition, which could be causing him stress. To help him recover, we recommend changing his diet for the next three days to something more bland, like boiled chicken and rice. This can be easier on his stomach and help reduce his vomiting.\n\nWe also recommend monitoring Noahboy closely at home. If his vomiting or diarrhea increases, please bring him back to see us immediately. \n\nTo help improve his gut health, we're prescribing some probiotics for Noahboy. These can help balance the bacteria in his gut and may help him feel better.\n\nWe'd like to see Noahboy again in three days to check on his progress. If there's no improvement, we may need to consider other treatment options. \n\nWe understand that this is a worrying time for you, but please know that we're here to help Noahboy get better. Please don't hesitate to reach out if you have any questions or concerns.\n\nBest,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": "hi there so my dog is two years old he's a Frenchie he hasn't been puking a lot maybe this whole week at least twice a day his puke is often yellowish brown and I've been feeding him pretty normally usually just his typical diet which consists of raw goat meat with some pumpkin his energy level seems to be not that good he's sleeping a lot more not as playful okay let's check his a little bit of a physical examination on him right now just to see if everything's okay it seems to me that his you know his weight has gone down a little bit he was 34 now he's 32 kilograms his temperature is 102.1 which is slightly elevated and his BPM is around 90 which is pretty normal his heart it's pretty regular no no murmurs hurt or anything just checked his abdomen and it's soft no masses palpated and doesn't seem to have any pain I think he might have viral gastroentitis and is fairly stressed right now I suppose we should probably give him a bland diet for the next three days maybe some boiled chicken and rice and monitor him closely at home let's recheck in three days to see if there's any improvements if there's more vomiting and diarrhea maybe you should return immediately and talk to me we should maybe also give him some probiotics I'll prescribe some probiotics for him as well and let's see if he gets any improvement in the next few days\n",
+      "client_email": "Subject: Follow-Up on Noahboy's Recent Veterinary Visit\n\nDear Mr. Walker,\n\nI hope this email finds you well. This is a follow-up regarding your recent visit to our clinic with your two-year-old French Bulldog, Noahboy.\n\nDuring the visit, we noted that Noahboy has been vomiting frequently, about twice a day for the past week. The vomit is often yellowish-brown in color. You mentioned that his diet typically consists of raw goat meat with some pumpkin. We also noted a decrease in his energy levels and an increase in his sleep patterns.\n\nUpon physical examination, we observed a slight decrease in Noahboy's weight from 34 to 32 kilograms. His temperature was slightly elevated at 102.1, but his BPM was normal at around 90. His heart rhythm was regular with no murmurs detected. His abdomen was soft with no masses palpated and no signs of pain.\n\nBased on these observations, we suspect Noahboy might be suffering from viral gastroenteritis and is fairly stressed. As discussed during the visit, we recommended a bland diet of boiled chicken and rice for the next three days and close monitoring at home. If there's more vomiting and diarrhea, please return immediately for further consultation.\n\nWe also prescribed some probiotics for Noahboy to aid his recovery. We will recheck his condition in three days to see if there are any improvements.\n\nPlease do not hesitate to reach out if you have any questions or concerns. We are here to ensure Noahboy's health and well-being.\n\nBest regards,\n\n[Your Name]\n[Your Position]"
+    },
+    {
+      "id": 11,
+      "date": "2025-09-17 15:08",
+      "patient_name": "Muimui",
+      "client_name": "Cyn",
+      "species": "Dog",
+      "breed": "mixed ",
+      "age": "9",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Dental",
+      "template_type": "SOAP Note",
+      "original_notes": "\"COHAT performed on Max, 6-year-old Lab. Tooth 108 has moderate calculus buildup. Tooth 209 shows severe gingivitis with 5mm pocket depth. Extracted tooth 301 due to fracture. Recommended professional cleaning and home care.\"",
+      "soap_note": "SUBJECTIVE: \nPatient: Muimui\nSpecies: Dog\nBreed: Mixed \nAge: 9\nSex: Male Neutered\nWeight: 20kg\nClient: Cyn\nAppointment Type: Dental\nNo client-reported symptoms, concerns, or history mentioned in notes.\n\nOBJECTIVE: \nCOHAT performed on a different patient, not Muimui. Tooth 108 has moderate calculus buildup. Tooth 209 shows severe gingivitis with 5mm pocket depth. Extracted tooth 301 due to fracture.\n\nASSESSMENT: \nNot documented\n\nPLAN: \nRecommended professional cleaning and home care.",
+      "client_summary": "Dear Cyn,\n\nDuring Muimui's dental appointment today, we performed a comprehensive oral health assessment and treatment (COHAT). This is a thorough cleaning and examination of Muimui's teeth.\n\nWe found that tooth 108 has a moderate amount of tartar buildup. Tartar is a hard substance that can lead to gum disease if not addressed, so it's important to keep an eye on this.\n\nTooth 209 showed signs of severe gum inflammation, also known as gingivitis. We measured a 5mm pocket depth around this tooth, which is deeper than normal and indicates that the gum disease is quite advanced in this area.\n\nWe also found that tooth 301 was fractured. To prevent any pain or further complications, we decided to extract this tooth.\n\nTo help Muimui maintain good oral health, we recommend professional cleanings. These cleanings will help remove tartar buildup and monitor the condition of his gums. At home, it's important to continue with regular tooth brushing. This will help slow down the buildup of tartar and reduce the risk of gum disease.\n\nWe understand that dental issues can be concerning, but please know that with regular care and monitoring, we can manage these conditions effectively. We'll be here to guide you through this process and answer any questions you may have.\n\nWe'll need to see Muimui again to check on his progress and adjust his treatment plan if necessary. We'll let you know when it's time for his next appointment.\n\nThank you for trusting us with Muimui's care.\n\nBest,\n[Your Name]",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null,
+      "dental_chart_data": {
+        "teeth_layout": {
+          "upper_right": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110"
+          ],
+          "upper_left": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211"
+          ],
+          "lower_right": [
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "411"
+          ],
+          "lower_left": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "310"
+          ]
+        },
+        "conditions": {
+          "normal": {
+            "color": "#e5e7eb",
+            "label": "Normal",
+            "priority": 0
+          },
+          "gingivitis_mild": {
+            "color": "#fbbf24",
+            "label": "Mild Gingivitis",
+            "priority": 1
+          },
+          "gingivitis_moderate": {
+            "color": "#f97316",
+            "label": "Moderate Gingivitis",
+            "priority": 2
+          },
+          "gingivitis_severe": {
+            "color": "#dc2626",
+            "label": "Severe Gingivitis",
+            "priority": 3
+          },
+          "calculus_light": {
+            "color": "#d1d5db",
+            "label": "Light Calculus",
+            "priority": 1
+          },
+          "calculus_moderate": {
+            "color": "#9ca3af",
+            "label": "Moderate Calculus",
+            "priority": 2
+          },
+          "calculus_heavy": {
+            "color": "#4b5563",
+            "label": "Heavy Calculus",
+            "priority": 3
+          },
+          "pocket_4mm": {
+            "color": "#3b82f6",
+            "label": "4mm Pocket",
+            "priority": 2
+          },
+          "pocket_5mm": {
+            "color": "#1d4ed8",
+            "label": "5mm Pocket",
+            "priority": 3
+          },
+          "pocket_6mm": {
+            "color": "#1e40af",
+            "label": "6+ mm Pocket",
+            "priority": 4
+          },
+          "fracture": {
+            "color": "#7c2d12",
+            "label": "Fracture",
+            "priority": 4
+          },
+          "missing": {
+            "color": "#000000",
+            "label": "Missing",
+            "priority": 5
+          },
+          "extracted": {
+            "color": "#ef4444",
+            "label": "Extracted Today",
+            "priority": 5
+          },
+          "crown": {
+            "color": "#ffd700",
+            "label": "Crown/Restoration",
+            "priority": 1
+          }
+        },
+        "findings": {
+          "108": "calculus_moderate",
+          "209": "pocket_5mm",
+          "301": "extracted"
+        },
+        "species": "Dog"
+      }
+    },
+    {
+      "id": 12,
+      "date": "2025-09-17 15:10",
+      "patient_name": "Muimui",
+      "client_name": "Cyn",
+      "species": "Dog",
+      "breed": "mixed ",
+      "age": "9",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Dental",
+      "template_type": "SOAP Note",
+      "original_notes": "\"COHAT performed on Max, 6-year-old Lab. Tooth 108 has moderate calculus buildup. Tooth 209 shows severe gingivitis with 5mm pocket depth. Extracted tooth 301 due to fracture. Recommended professional cleaning and home care.\"",
+      "soap_note": "SUBJECTIVE: \nPatient: Muimui\nSpecies: Dog\nBreed: Mixed \nAge: 9\nSex: Male Neutered\nWeight: 20kg\nClient: Cyn\nAppointment Type: Dental\n\nOBJECTIVE: \nCOHAT performed. Tooth 108 has moderate calculus buildup. Tooth 209 shows severe gingivitis with 5mm pocket depth. Tooth 301 was extracted due to fracture.\n\nASSESSMENT: \nModerate calculus buildup on tooth 108. Severe gingivitis on tooth 209 with 5mm pocket depth. Tooth 301 had a fracture.\n\nPLAN: \nRecommended professional cleaning and home care.",
+      "client_summary": "Dear Cyn,\n\nDuring Muimui's dental appointment today, we performed a comprehensive oral health assessment and treatment (COHAT). This is a thorough cleaning and examination of Muimui's teeth.\n\nWe found that tooth 108 had a moderate amount of tartar buildup. Tartar is a hard substance that can lead to gum disease if not removed. We also noticed that tooth 209 had severe gum inflammation, also known as gingivitis, with a 5mm pocket depth. This is a sign that the gum is pulling away from the tooth, which can lead to more serious dental issues if not addressed.\n\nUnfortunately, we also found that tooth 301 was fractured. To prevent any pain or further complications, we decided to extract this tooth.\n\nTo maintain Muimui's oral health, we recommend professional cleanings and home care. Regular cleanings will help to remove tartar buildup and monitor any changes in his oral health. Home care can include brushing Muimui's teeth regularly with a dog-friendly toothpaste and providing dental chews that can help clean his teeth.\n\nWe understand that Muimui's dental health is important to you, and we're here to help ensure he maintains a healthy mouth. Please don't hesitate to reach out if you have any questions or concerns about Muimui's dental care.\n\nBest regards,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null,
+      "dental_chart_data": {
+        "teeth_layout": {
+          "upper_right": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110"
+          ],
+          "upper_left": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211"
+          ],
+          "lower_right": [
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "411"
+          ],
+          "lower_left": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "310"
+          ]
+        },
+        "conditions": {
+          "normal": {
+            "color": "#e5e7eb",
+            "label": "Normal",
+            "priority": 0
+          },
+          "gingivitis_mild": {
+            "color": "#fbbf24",
+            "label": "Mild Gingivitis",
+            "priority": 1
+          },
+          "gingivitis_moderate": {
+            "color": "#f97316",
+            "label": "Moderate Gingivitis",
+            "priority": 2
+          },
+          "gingivitis_severe": {
+            "color": "#dc2626",
+            "label": "Severe Gingivitis",
+            "priority": 3
+          },
+          "calculus_light": {
+            "color": "#d1d5db",
+            "label": "Light Calculus",
+            "priority": 1
+          },
+          "calculus_moderate": {
+            "color": "#9ca3af",
+            "label": "Moderate Calculus",
+            "priority": 2
+          },
+          "calculus_heavy": {
+            "color": "#4b5563",
+            "label": "Heavy Calculus",
+            "priority": 3
+          },
+          "pocket_4mm": {
+            "color": "#3b82f6",
+            "label": "4mm Pocket",
+            "priority": 2
+          },
+          "pocket_5mm": {
+            "color": "#1d4ed8",
+            "label": "5mm Pocket",
+            "priority": 3
+          },
+          "pocket_6mm": {
+            "color": "#1e40af",
+            "label": "6+ mm Pocket",
+            "priority": 4
+          },
+          "fracture": {
+            "color": "#7c2d12",
+            "label": "Fracture",
+            "priority": 4
+          },
+          "missing": {
+            "color": "#000000",
+            "label": "Missing",
+            "priority": 5
+          },
+          "extracted": {
+            "color": "#ef4444",
+            "label": "Extracted Today",
+            "priority": 5
+          },
+          "crown": {
+            "color": "#ffd700",
+            "label": "Crown/Restoration",
+            "priority": 1
+          }
+        },
+        "findings": {
+          "108": "calculus_moderate",
+          "209": "pocket_5mm",
+          "301": "extracted"
+        },
+        "species": "Dog"
+      },
+      "client_email": "Subject: Follow-Up on Muimui's Recent Veterinary Visit\n\nDear Cyn,\n\nI hope this message finds you and Muimui well. I am writing to provide a summary of Muimui's recent visit to our clinic.\n\nDuring the visit, we performed a Comprehensive Oral Health Assessment and Treatment (COHAT) on Muimui. We noticed that tooth 108 has moderate calculus buildup, and tooth 209 shows severe gingivitis with a 5mm pocket depth. We also found that tooth 301 had a fracture, which led us to extract it.\n\nAs discussed during the visit, we recommended a professional cleaning to address the calculus buildup and gingivitis. Additionally, we suggested home care to maintain Muimui's oral health and prevent further issues.\n\nPlease do not hesitate to reach out if you have any questions or concerns about Muimui's oral health or the information provided in this email. We are here to ensure that Muimui receives the best care possible.\n\nThank you for entrusting us with Muimui's health. We look forward to seeing you both at your next visit.\n\nBest regards,\n\n[Your Name]\n[Your Position]"
+    },
+    {
+      "id": 13,
+      "date": "2025-09-17 15:15",
+      "patient_name": "Muimui",
+      "client_name": "Cyn",
+      "species": "Dog",
+      "breed": "mixed ",
+      "age": "9",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Dental",
+      "template_type": "SOAP Note",
+      "original_notes": "\"COHAT performed on Luna, 9-year-old Persian cat. Severe periodontal disease present. Tooth 204 has stage 4 periodontal disease with 8mm pocket depth and severe bone loss - extracted today. Tooth 208 shows moderate calculus with 5mm pocket depth and moderate gingivitis. Tooth 109 has light calculus buildup. Crown fracture noted on tooth 304 exposing pulp - requires extraction next visit. Tooth 307 missing - likely lost previously due to resorption. Multiple teeth show mild gingivitis including 105, 205, 405. Heavy calculus noted on 108, 208, 308, 408.\"",
+      "soap_note": "SUBJECTIVE: Not documented\n\nOBJECTIVE: \nPatient: Muimui\nSpecies: Dog\nBreed: mixed \nAge: 9\nSex: Male Neutered\nWeight: 20kg\nAppointment Type: Dental\nCOHAT performed. Severe periodontal disease present. Tooth 204 has stage 4 periodontal disease with 8mm pocket depth and severe bone loss - extracted today. Tooth 208 shows moderate calculus with 5mm pocket depth and moderate gingivitis. Tooth 109 has light calculus buildup. Crown fracture noted on tooth 304 exposing pulp. Tooth 307 missing - likely lost previously due to resorption. Multiple teeth show mild gingivitis including 105, 205, 405. Heavy calculus noted on 108, 208, 308, 408.\n\nASSESSMENT: \nSevere periodontal disease. Stage 4 periodontal disease on tooth 204 with severe bone loss. Moderate calculus and gingivitis on tooth 208. Light calculus buildup on tooth 109. Crown fracture on tooth 304 exposing pulp. Tooth 307 missing, likely due to previous resorption. Mild gingivitis on multiple teeth including 105, 205, 405. Heavy calculus on 108, 208, 308, 408.\n\nPLAN: \nTooth 204 extracted. Tooth 304 requires extraction in the next visit.",
+      "client_summary": "Dear Cyn,\n\nDuring Muimui's dental appointment today, we performed a comprehensive oral health assessment and treatment (COHAT). This is a thorough cleaning and examination of Muimui's teeth and gums.\n\nWe found that Muimui has severe gum disease, also known as periodontal disease. This is a common condition in dogs that can cause discomfort and lead to other health problems if not treated. One of Muimui's teeth (tooth 204) was particularly affected by this disease, with significant bone loss and a deep pocket of infection. To prevent further discomfort and damage, we extracted this tooth during today's visit.\n\nWe also noticed that another tooth (tooth 208) has a moderate amount of tartar build-up and some gum inflammation. Another tooth (tooth 109) has a light amount of tartar. We'll need to keep an eye on these teeth and may need to clean them more thoroughly in the future.\n\nOne of Muimui's teeth (tooth 304) has a broken crown, which is the visible part of the tooth. This break has exposed the tooth's pulp, which can be painful and lead to infection. We'll need to extract this tooth during Muimui's next visit to prevent further problems.\n\nWe also noticed that tooth 307 is missing, which may have been lost previously due to a process called resorption. This is when the body breaks down and absorbs a tooth. It's not uncommon in dogs and isn't a cause for concern.\n\nSeveral of Muimui's teeth (105, 205, 405) show signs of mild gum inflammation, and there's a heavy tartar build-up on teeth 108, 208, 308, 408. We'll need to monitor these teeth closely and may need to clean them more thoroughly in the future.\n\nIt's important to continue with regular dental care for Muimui to prevent further dental issues. This includes regular brushing at home and professional cleanings as needed. We'll provide more detailed home care instructions to help you with this.\n\nWe'll schedule a follow-up appointment to check on Muimui's progress and to extract the broken tooth. We understand that this can be a lot to take in, but please know that we're here to help and answer any questions you may have.\n\nBest regards,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null,
+      "dental_chart_data": {
+        "teeth_layout": {
+          "upper_right": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110"
+          ],
+          "upper_left": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211"
+          ],
+          "lower_right": [
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "411"
+          ],
+          "lower_left": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "310"
+          ]
+        },
+        "conditions": {
+          "normal": {
+            "color": "#e5e7eb",
+            "label": "Normal",
+            "priority": 0
+          },
+          "gingivitis_mild": {
+            "color": "#fbbf24",
+            "label": "Mild Gingivitis",
+            "priority": 1
+          },
+          "gingivitis_moderate": {
+            "color": "#f97316",
+            "label": "Moderate Gingivitis",
+            "priority": 2
+          },
+          "gingivitis_severe": {
+            "color": "#dc2626",
+            "label": "Severe Gingivitis",
+            "priority": 3
+          },
+          "calculus_light": {
+            "color": "#d1d5db",
+            "label": "Light Calculus",
+            "priority": 1
+          },
+          "calculus_moderate": {
+            "color": "#9ca3af",
+            "label": "Moderate Calculus",
+            "priority": 2
+          },
+          "calculus_heavy": {
+            "color": "#4b5563",
+            "label": "Heavy Calculus",
+            "priority": 3
+          },
+          "pocket_4mm": {
+            "color": "#3b82f6",
+            "label": "4mm Pocket",
+            "priority": 2
+          },
+          "pocket_5mm": {
+            "color": "#1d4ed8",
+            "label": "5mm Pocket",
+            "priority": 3
+          },
+          "pocket_6mm": {
+            "color": "#1e40af",
+            "label": "6+ mm Pocket",
+            "priority": 4
+          },
+          "fracture": {
+            "color": "#7c2d12",
+            "label": "Fracture",
+            "priority": 4
+          },
+          "missing": {
+            "color": "#000000",
+            "label": "Missing",
+            "priority": 5
+          },
+          "extracted": {
+            "color": "#ef4444",
+            "label": "Extracted Today",
+            "priority": 5
+          },
+          "crown": {
+            "color": "#ffd700",
+            "label": "Crown/Restoration",
+            "priority": 1
+          }
+        },
+        "findings": {
+          "108": "calculus_moderate",
+          "209": "pocket_5mm",
+          "301": "extracted"
+        },
+        "species": "Dog"
+      },
+      "client_email": "Subject: Follow-Up on Muimui's Recent Dental Procedure\n\nDear Cyn,\n\nI hope this message finds you well. I am writing to provide a summary of Muimui's recent dental procedure.\n\nDuring the visit, we performed a COHAT (Comprehensive Oral Health Assessment and Treatment) on Muimui. We found severe periodontal disease present in several areas of Muimui's mouth. Specifically, tooth 204 had stage 4 periodontal disease with an 8mm pocket depth and severe bone loss. This tooth was extracted during the visit.\n\nTooth 208 showed moderate calculus with a 5mm pocket depth and moderate gingivitis. Tooth 109 had light calculus buildup. We also noted a crown fracture on tooth 304 that exposed the pulp. This tooth will require extraction during the next visit.\n\nTooth 307 was missing, which we believe was likely lost previously due to resorption. We also observed mild gingivitis on multiple teeth, including 105, 205, and 405. Heavy calculus was noted on teeth 108, 208, 308, and 408.\n\nWe will continue to monitor Muimui's oral health closely and will discuss further treatment options as necessary during your next visit.\n\nThank you for entrusting us with Muimui's care. Please do not hesitate to reach out if you have any questions or concerns.\n\nBest regards,\n\n[Your Name]\n[Your Position]"
+    },
+    {
+      "id": 14,
+      "date": "2025-09-17 15:16",
+      "patient_name": "Muimui",
+      "client_name": "Cyn",
+      "species": "Dog",
+      "breed": "mixed ",
+      "age": "9",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Dental",
+      "template_type": "SOAP Note",
+      "original_notes": "\"COHAT performed on Luna, 9-year-old Persian cat. Severe periodontal disease present. Tooth 204 has stage 4 periodontal disease with 8mm pocket depth and severe bone loss - extracted today. Tooth 208 shows moderate calculus with 5mm pocket depth and moderate gingivitis. Tooth 109 has light calculus buildup. Crown fracture noted on tooth 304 exposing pulp - requires extraction next visit. Tooth 307 missing - likely lost previously due to resorption. Multiple teeth show mild gingivitis including 105, 205, 405. Heavy calculus noted on 108, 208, 308, 408.\"",
+      "soap_note": "SUBJECTIVE: Not documented\n\nOBJECTIVE: \nPatient: Muimui\nSpecies: Dog\nBreed: Mixed \nAge: 9\nSex: Male Neutered\nWeight: 20kg\nAppointment Type: Dental\nCOHAT performed. Severe periodontal disease present. Tooth 204 has stage 4 periodontal disease with 8mm pocket depth and severe bone loss - extracted today. Tooth 208 shows moderate calculus with 5mm pocket depth and moderate gingivitis. Tooth 109 has light calculus buildup. Crown fracture noted on tooth 304 exposing pulp. Tooth 307 missing - likely lost previously due to resorption. Multiple teeth show mild gingivitis including 105, 205, 405. Heavy calculus noted on 108, 208, 308, 408.\n\nASSESSMENT: \nSevere periodontal disease. Stage 4 periodontal disease on tooth 204. Moderate calculus and gingivitis on tooth 208. Light calculus buildup on tooth 109. Crown fracture on tooth 304. Tooth 307 missing, likely due to previous resorption. Mild gingivitis on teeth 105, 205, 405. Heavy calculus on teeth 108, 208, 308, 408.\n\nPLAN: \nTooth 304 requires extraction in the next visit.",
+      "client_summary": "Dear Cyn,\n\nDuring Muimui's dental appointment today, we performed a comprehensive oral health assessment and treatment (COHAT). This is a thorough cleaning and examination of Muimui's teeth and gums.\n\nWe found that Muimui has severe gum disease, also known as periodontal disease. This is a common condition in dogs that can cause discomfort and lead to other health problems if not treated. One of Muimui's teeth (tooth 204) was particularly affected by this disease, with significant bone loss around the tooth. Because of this, we had to remove the tooth to prevent further discomfort and damage.\n\nWe also noticed that another tooth (tooth 208) has a moderate amount of tartar build-up and some gum inflammation. Tooth 109 also has a small amount of tartar. We'll need to keep an eye on these teeth and may need to do further cleanings or treatments in the future.\n\nOne of Muimui's teeth (tooth 304) has a broken crown, which is the top part of the tooth, and the inside of the tooth is exposed. This can be painful and can lead to infection, so we'll need to remove this tooth during Muimui's next visit.\n\nWe also noticed that tooth 307 is missing, which may have been lost previously due to a process where the tooth slowly dissolves. This is not uncommon and is not a cause for immediate concern.\n\nSeveral other teeth have mild gum inflammation and a few have a heavy tartar build-up. We'll continue to monitor these teeth closely.\n\nIt's important to continue with the treatment plan to prevent further dental issues. Regular dental care can help prevent tooth loss, pain, and other health problems. We'll provide you with some home care instructions to help keep Muimui's teeth clean and healthy.\n\nWe'll need to schedule a follow-up appointment to extract the broken tooth and check on the condition of the other teeth. We'll also discuss ways to manage and prevent gum disease and tartar build-up.\n\nPlease don't hesitate to reach out if you have any questions or concerns. We're here to help ensure Muimui stays healthy and comfortable.\n\nBest regards,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null,
+      "dental_chart_data": {
+        "teeth_layout": {
+          "upper_right": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110"
+          ],
+          "upper_left": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211"
+          ],
+          "lower_right": [
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "411"
+          ],
+          "lower_left": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "310"
+          ]
+        },
+        "conditions": {
+          "normal": {
+            "color": "#e5e7eb",
+            "label": "Normal",
+            "priority": 0
+          },
+          "gingivitis_mild": {
+            "color": "#fbbf24",
+            "label": "Mild Gingivitis",
+            "priority": 1
+          },
+          "gingivitis_moderate": {
+            "color": "#f97316",
+            "label": "Moderate Gingivitis",
+            "priority": 2
+          },
+          "gingivitis_severe": {
+            "color": "#dc2626",
+            "label": "Severe Gingivitis",
+            "priority": 3
+          },
+          "calculus_light": {
+            "color": "#d1d5db",
+            "label": "Light Calculus",
+            "priority": 1
+          },
+          "calculus_moderate": {
+            "color": "#9ca3af",
+            "label": "Moderate Calculus",
+            "priority": 2
+          },
+          "calculus_heavy": {
+            "color": "#4b5563",
+            "label": "Heavy Calculus",
+            "priority": 3
+          },
+          "pocket_4mm": {
+            "color": "#3b82f6",
+            "label": "4mm Pocket",
+            "priority": 2
+          },
+          "pocket_5mm": {
+            "color": "#1d4ed8",
+            "label": "5mm Pocket",
+            "priority": 3
+          },
+          "pocket_6mm": {
+            "color": "#1e40af",
+            "label": "6+ mm Pocket",
+            "priority": 4
+          },
+          "fracture": {
+            "color": "#7c2d12",
+            "label": "Fracture",
+            "priority": 4
+          },
+          "missing": {
+            "color": "#000000",
+            "label": "Missing",
+            "priority": 5
+          },
+          "extracted": {
+            "color": "#ef4444",
+            "label": "Extracted Today",
+            "priority": 5
+          },
+          "crown": {
+            "color": "#ffd700",
+            "label": "Crown/Restoration",
+            "priority": 1
+          }
+        },
+        "findings": {
+          "108": "calculus_moderate",
+          "209": "pocket_5mm",
+          "301": "extracted"
+        },
+        "species": "Dog"
+      }
+    },
+    {
+      "id": 15,
+      "date": "2025-09-17 15:18",
+      "patient_name": "Muimui",
+      "client_name": "Cyn",
+      "species": "Dog",
+      "breed": "mixed ",
+      "age": "9",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Dental",
+      "template_type": "SOAP Note",
+      "original_notes": "\"COHAT performed on Luna, 9-year-old Persian cat. Severe periodontal disease present. Tooth 204 has stage 4 periodontal disease with 8mm pocket depth and severe bone loss - extracted today. Tooth 208 shows moderate calculus with 5mm pocket depth and moderate gingivitis. Tooth 109 has light calculus buildup. Crown fracture noted on tooth 304 exposing pulp - requires extraction next visit. Tooth 307 missing - likely lost previously due to resorption. Multiple teeth show mild gingivitis including 105, 205, 405. Heavy calculus noted on 108, 208, 308, 408.\"",
+      "soap_note": "SUBJECTIVE: \nNot documented\n\nOBJECTIVE: \nPatient: Muimui\nSpecies: Dog\nBreed: Mixed \nAge: 9\nSex: Male Neutered\nWeight: 20kg\nCOHAT performed. Severe periodontal disease present. Tooth 204 has stage 4 periodontal disease with 8mm pocket depth and severe bone loss - extracted today. Tooth 208 shows moderate calculus with 5mm pocket depth and moderate gingivitis. Tooth 109 has light calculus buildup. Crown fracture noted on tooth 304 exposing pulp. Tooth 307 missing - likely lost previously due to resorption. Multiple teeth show mild gingivitis including 105, 205, 405. Heavy calculus noted on 108, 208, 308, 408.\n\nASSESSMENT: \nSevere periodontal disease. Stage 4 periodontal disease on tooth 204. Moderate calculus and gingivitis on tooth 208. Light calculus buildup on tooth 109. Crown fracture on tooth 304. Tooth 307 missing, likely due to previous resorption. Mild gingivitis on teeth 105, 205, 405. Heavy calculus on teeth 108, 208, 308, 408.\n\nPLAN: \nTooth 304 requires extraction in the next visit.",
+      "client_summary": "Dear Cyn,\n\nDuring Muimui's dental appointment today, we performed a comprehensive oral health assessment and treatment (COHAT). This is a thorough cleaning and examination of Muimui's teeth and gums.\n\nWe found that Muimui has severe gum disease, also known as periodontal disease. This is a common condition in dogs that can cause discomfort and lead to other health problems if not treated. One of Muimui's teeth (tooth 204) was particularly affected by this disease, with significant bone loss and a deep pocket of infection. We had to remove this tooth to prevent further discomfort and damage.\n\nAnother tooth (tooth 208) showed signs of moderate tartar buildup and gum inflammation. Tooth 109 also had a small amount of tartar. We cleaned these teeth thoroughly to help slow the progression of the disease.\n\nWe also noticed that tooth 304 has a broken crown, which is exposing the inner part of the tooth. This can be painful and lead to infection, so we plan to extract this tooth during Muimui's next visit. We also noted that tooth 307 is missing, which may have been lost previously due to a process where the tooth slowly dissolves.\n\nSeveral other teeth showed signs of mild gum inflammation, and there was a significant amount of tartar on teeth 108, 208, 308, and 408. We cleaned these teeth as well to help improve Muimui's oral health.\n\nMoving forward, it's important to maintain Muimui's oral health with regular brushing at home, if possible. We can provide guidance on how to do this. Regular dental check-ups are also crucial to monitor his condition and catch any potential issues early.\n\nWe'll schedule a follow-up appointment to extract tooth 304 and check on Muimui's overall oral health. We understand that this can be a lot to take in, but please know that we're here to support you and Muimui every step of the way.\n\nBest,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null,
+      "dental_chart_data": {
+        "teeth_layout": {
+          "upper_right": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110"
+          ],
+          "upper_left": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211"
+          ],
+          "lower_right": [
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "411"
+          ],
+          "lower_left": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "310"
+          ]
+        },
+        "conditions": {
+          "normal": {
+            "color": "#e5e7eb",
+            "label": "Normal",
+            "priority": 0
+          },
+          "gingivitis_mild": {
+            "color": "#fbbf24",
+            "label": "Mild Gingivitis",
+            "priority": 1
+          },
+          "gingivitis_moderate": {
+            "color": "#f97316",
+            "label": "Moderate Gingivitis",
+            "priority": 2
+          },
+          "gingivitis_severe": {
+            "color": "#dc2626",
+            "label": "Severe Gingivitis",
+            "priority": 3
+          },
+          "calculus_light": {
+            "color": "#d1d5db",
+            "label": "Light Calculus",
+            "priority": 1
+          },
+          "calculus_moderate": {
+            "color": "#9ca3af",
+            "label": "Moderate Calculus",
+            "priority": 2
+          },
+          "calculus_heavy": {
+            "color": "#4b5563",
+            "label": "Heavy Calculus",
+            "priority": 3
+          },
+          "pocket_4mm": {
+            "color": "#3b82f6",
+            "label": "4mm Pocket",
+            "priority": 2
+          },
+          "pocket_5mm": {
+            "color": "#1d4ed8",
+            "label": "5mm Pocket",
+            "priority": 3
+          },
+          "pocket_6mm": {
+            "color": "#1e40af",
+            "label": "6+ mm Pocket",
+            "priority": 4
+          },
+          "fracture": {
+            "color": "#7c2d12",
+            "label": "Fracture",
+            "priority": 4
+          },
+          "missing": {
+            "color": "#000000",
+            "label": "Missing",
+            "priority": 5
+          },
+          "extracted": {
+            "color": "#ef4444",
+            "label": "Extracted Today",
+            "priority": 5
+          },
+          "crown": {
+            "color": "#ffd700",
+            "label": "Crown/Restoration",
+            "priority": 1
+          }
+        },
+        "findings": {
+          "204": "extracted",
+          "208": "calculus_heavy",
+          "109": "calculus_light",
+          "304": "fracture",
+          "307": "missing",
+          "105": "gingivitis_mild",
+          "205": "gingivitis_mild",
+          "405": "gingivitis_mild",
+          "108": "calculus_heavy",
+          "308": "calculus_heavy",
+          "408": "calculus_heavy"
+        },
+        "species": "Dog"
+      },
+      "client_email": "Subject: Follow-Up on Muimui's Recent Dental Procedure\n\nDear Cyn,\n\nI hope this message finds you well. I am writing to provide a summary of Muimui's recent dental procedure at our clinic.\n\nDuring the visit, we performed a COHAT (Comprehensive Oral Health Assessment and Treatment) on Muimui. We identified severe periodontal disease, which is quite common in pets and can lead to discomfort and other health issues if not addressed.\n\nTooth 204 had stage 4 periodontal disease with an 8mm pocket depth and severe bone loss. Due to the severity of the condition, we extracted this tooth during the visit. Tooth 208 showed moderate calculus with a 5mm pocket depth and moderate gingivitis. Tooth 109 had light calculus buildup.\n\nWe also noted a crown fracture on tooth 304 that exposed the pulp. As discussed during the visit, this tooth will require extraction during the next visit. Tooth 307 was missing, which was likely lost previously due to resorption.\n\nMultiple teeth, including 105, 205, and 405, showed signs of mild gingivitis. We also noted heavy calculus on teeth 108, 208, 308, and 408.\n\nPlease remember that maintaining Muimui's oral health is crucial for overall health. We will continue to monitor the condition of Muimui's teeth and gums closely in future visits.\n\nThank you for entrusting us with Muimui's care. If you have any questions or concerns, please do not hesitate to contact us.\n\nBest regards,\n\n[Your Name]\n[Your Position]"
+    },
+    {
+      "id": 16,
+      "date": "2025-09-17 15:22",
+      "patient_name": "Muimui",
+      "client_name": "Cyn",
+      "species": "Dog",
+      "breed": "mixed ",
+      "age": "9",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Dental",
+      "template_type": "SOAP Note",
+      "original_notes": ". Tooth 204 has stage 4 periodontal disease with 8mm pocket depth and severe bone loss - extracted today. Tooth 208 shows moderate calculus with 5mm pocket depth and moderate gingivitis. Tooth 109 has light calculus buildup. Crown fracture noted on tooth 304 exposing pulp - requires extraction next visit. Tooth 307 missing - likely lost previously due to resorption. Multiple teeth show mild gingivitis including 105, 205, 405. Heavy calculus noted on 108, 208, 308, 408.\"",
+      "soap_note": "SUBJECTIVE: \nOwner Cyn brought in Muimui, a 9-year-old neutered male mixed breed dog, for a dental appointment. No client-reported symptoms, concerns, or history were mentioned in the notes.\n\nOBJECTIVE: \nMuimui weighs 20kg. Dental examination revealed that tooth 204 has stage 4 periodontal disease with 8mm pocket depth and severe bone loss. This tooth was extracted during the appointment. Tooth 208 shows moderate calculus with 5mm pocket depth and moderate gingivitis. Tooth 109 has light calculus buildup. A crown fracture was noted on tooth 304, exposing the pulp. Tooth 307 is missing, likely lost previously due to resorption. Multiple teeth, including 105, 205, and 405, show mild gingivitis. Heavy calculus was noted on teeth 108, 208, 308, and 408.\n\nASSESSMENT: \nMuimui has stage 4 periodontal disease in tooth 204, moderate calculus and gingivitis in tooth 208, light calculus buildup in tooth 109, a crown fracture in tooth 304, and missing tooth 307 likely due to previous resorption. Mild gingivitis is present in multiple teeth and heavy calculus is present in teeth 108, 208, 308, and 408.\n\nPLAN: \nTooth 204 was extracted during this visit. Tooth 304, which has a crown fracture exposing the pulp, requires extraction during the next visit. No other treatments, medications, or recommendations were specifically given in the notes.",
+      "client_summary": "Dear Cyn,\n\nDuring Muimui's dental appointment today, we found several issues that needed attention. \n\nOne of his teeth (tooth 204) had advanced gum disease, which had caused significant bone loss. This tooth was in a bad state and we had to remove it to prevent further discomfort and potential infection. Another tooth (tooth 208) has some tartar buildup and mild gum inflammation. We also noticed a small amount of tartar on tooth 109.\n\nWe found a broken tooth (tooth 304) that has exposed the inner part of the tooth, which can be painful. This tooth will need to be removed during our next visit to prevent any further pain or complications. We also noticed that tooth 307 is missing, which may have been lost previously due to natural breakdown.\n\nSeveral other teeth have mild gum inflammation and heavy tartar buildup. These teeth are 105, 205, 405, 108, 208, 308, and 408. \n\nIt's important to address these issues to prevent further dental problems and discomfort for Muimui. Regular dental care can also contribute to his overall health. \n\nAt home, you can help Muimui by brushing his teeth regularly with a dog-friendly toothpaste and providing dental chews that can help reduce tartar buildup. \n\nWe'll need to schedule a follow-up appointment to extract the broken tooth and continue monitoring the other teeth. We'll discuss a detailed treatment plan during that visit.\n\nPlease don't hesitate to reach out if you have any questions or concerns. We're here to ensure Muimui stays healthy and comfortable.\n\nBest regards,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null,
+      "dental_chart_data": {
+        "teeth_layout": {
+          "upper_right": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110"
+          ],
+          "upper_left": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211"
+          ],
+          "lower_right": [
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "411"
+          ],
+          "lower_left": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "310"
+          ]
+        },
+        "conditions": {
+          "normal": {
+            "color": "#e5e7eb",
+            "label": "Normal",
+            "priority": 0
+          },
+          "gingivitis_mild": {
+            "color": "#fbbf24",
+            "label": "Mild Gingivitis",
+            "priority": 1
+          },
+          "gingivitis_moderate": {
+            "color": "#f97316",
+            "label": "Moderate Gingivitis",
+            "priority": 2
+          },
+          "gingivitis_severe": {
+            "color": "#dc2626",
+            "label": "Severe Gingivitis",
+            "priority": 3
+          },
+          "calculus_light": {
+            "color": "#d1d5db",
+            "label": "Light Calculus",
+            "priority": 1
+          },
+          "calculus_moderate": {
+            "color": "#9ca3af",
+            "label": "Moderate Calculus",
+            "priority": 2
+          },
+          "calculus_heavy": {
+            "color": "#4b5563",
+            "label": "Heavy Calculus",
+            "priority": 3
+          },
+          "pocket_4mm": {
+            "color": "#3b82f6",
+            "label": "4mm Pocket",
+            "priority": 2
+          },
+          "pocket_5mm": {
+            "color": "#1d4ed8",
+            "label": "5mm Pocket",
+            "priority": 3
+          },
+          "pocket_6mm": {
+            "color": "#1e40af",
+            "label": "6+ mm Pocket",
+            "priority": 4
+          },
+          "fracture": {
+            "color": "#7c2d12",
+            "label": "Fracture",
+            "priority": 4
+          },
+          "missing": {
+            "color": "#000000",
+            "label": "Missing",
+            "priority": 5
+          },
+          "extracted": {
+            "color": "#ef4444",
+            "label": "Extracted Today",
+            "priority": 5
+          },
+          "crown": {
+            "color": "#ffd700",
+            "label": "Crown/Restoration",
+            "priority": 1
+          }
+        },
+        "findings": {
+          "204": "extracted",
+          "208": "calculus_heavy",
+          "109": "calculus_light",
+          "304": "fracture",
+          "307": "missing",
+          "105": "gingivitis_mild",
+          "205": "gingivitis_mild",
+          "405": "gingivitis_mild",
+          "108": "calculus_heavy",
+          "308": "calculus_heavy",
+          "408": "calculus_heavy"
+        },
+        "species": "Dog"
+      }
+    },
+    {
+      "id": 17,
+      "date": "2025-09-17 16:25",
+      "patient_name": "Briana",
+      "client_name": "Jimmy",
+      "species": "Dog",
+      "breed": "french bulldog ",
+      "age": "3 years old ",
+      "sex": "Male Neutered",
+      "weight": "20",
+      "appointment_type": "Dental",
+      "template_type": "SOAP Note",
+      "original_notes": "\"Emergency visit Hit by car 2 hours ago. Oral trauma assessment: Tooth 104 completely avulsed, cannot be reimplanted. Tooth 103 has complicated crown fracture with pulp exposure - crown restoration planned. Tooth 404 shows uncomplicated crown fracture. Multiple teeth loosened including 105, 204, 205 - require monitoring. Soft tissue lacerations present on gums. Tooth 304 extracted due to root fracture. Pain management initiated.\"",
+      "soap_note": "SUBJECTIVE: The patient, Briana, a 3-year-old neutered male French Bulldog, was brought in by the client, Jimmy, for an emergency visit following a car accident that occurred 2 hours ago.\n\nOBJECTIVE: Upon oral trauma assessment, Tooth 104 was found to be completely avulsed and cannot be reimplanted. Tooth 103 has a complicated crown fracture with pulp exposure. Tooth 404 has an uncomplicated crown fracture. Multiple teeth including 105, 204, 205 are loosened and require monitoring. Soft tissue lacerations are present on the gums. Tooth 304 was extracted due to root fracture. Pain management has been initiated.\n\nASSESSMENT: The patient has suffered oral trauma due to a car accident, resulting in multiple tooth injuries including avulsion, complicated and uncomplicated crown fractures, loosened teeth, and soft tissue lacerations. One tooth was extracted due to root fracture.\n\nPLAN: Crown restoration is planned for Tooth 103. The loosened teeth (105, 204, 205) will require monitoring. Pain management has been initiated.",
+      "client_summary": "Dear Jimmy,\n\nDuring today's emergency visit, Briana, your French Bulldog, was examined following an unfortunate car accident. She sustained some injuries to her mouth that we needed to address.\n\nIn simple terms, Briana lost one tooth (we call it tooth 104) completely and it can't be put back in. Another tooth (103) has a serious break that exposed the inner part of the tooth, which we refer to as the pulp. We're planning to restore this tooth with a crown to protect it. Tooth 404 has a less serious break, but it's still something we need to keep an eye on.\n\nSeveral other teeth (105, 204, 205) are loose, and we'll need to monitor these closely in the coming weeks. Briana also has some cuts on her gums. Another tooth (304) had to be removed because it was fractured at the root.\n\nWe've started pain management to help Briana feel more comfortable. It's important to follow the treatment plan we've outlined to ensure Briana's mouth heals properly and to prevent any further complications. \n\nAt home, please monitor Briana for any changes in eating or drinking habits, or if she seems to be in pain. If you notice anything unusual, please contact us immediately. \n\nWe'll need to schedule a follow-up appointment to check on Briana's progress and to perform the crown restoration on tooth 103. \n\nWe understand this is a stressful time for both you and Briana. Rest assured, we're doing everything we can to help her recover quickly and comfortably. \n\nBest regards,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null
+    },
+    {
+      "id": 18,
+      "date": "2025-09-17 16:27",
+      "patient_name": "braina",
+      "client_name": "Tina",
+      "species": "Dog",
+      "breed": "Mixed",
+      "age": "3",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Emergency",
+      "template_type": "SOAP Note",
+      "original_notes": "\"Emergency visit. Hit by car 2 hours ago. Oral trauma assessment: Tooth 104 completely avulsed, cannot be reimplanted. Tooth 103 has complicated crown fracture with pulp exposure - crown restoration planned. Tooth 404 shows uncomplicated crown fracture. Multiple teeth loosened including 105, 204, 205 - require monitoring. Soft tissue lacerations present on gums. Tooth 304 extracted due to root fracture. Pain management initiated.\"",
+      "soap_note": "SUBJECTIVE: \nThe patient, Braina, a 3-year-old neutered male mixed breed dog, was brought in by the owner, Tina, for an emergency visit. The dog was hit by a car approximately 2 hours prior to the visit.\n\nOBJECTIVE: \nUpon oral trauma assessment, it was found that Tooth 104 was completely avulsed and could not be reimplanted. Tooth 103 had a complicated crown fracture with pulp exposure. Tooth 404 had an uncomplicated crown fracture. Multiple teeth including 105, 204, 205 were loosened. Soft tissue lacerations were present on the gums. Tooth 304 was extracted due to root fracture. Pain management was initiated.\n\nASSESSMENT: \nThe patient suffered from oral trauma due to a car accident, resulting in multiple tooth injuries including avulsion, complicated and uncomplicated crown fractures, loosened teeth, and a root fracture leading to extraction. Soft tissue lacerations were also present on the gums.\n\nPLAN: \nThe plan includes crown restoration for Tooth 103. The loosened teeth (105, 204, 205) require monitoring. Pain management has been initiated.",
+      "client_summary": "Dear Tina,\n\nI understand how stressful it can be when your beloved pet, Braina, has an emergency. Today, Braina was brought in after being hit by a car. We focused on assessing and treating his oral injuries.\n\nBraina had several teeth affected by the incident. One tooth (104) was completely knocked out and unfortunately, we can't put it back in. Another tooth (103) has a serious break that exposed the inner part of the tooth, which we call the pulp. We're planning to restore this tooth's crown, which is the visible part of the tooth. Tooth 404 has a simpler fracture that doesn't involve the pulp.\n\nSeveral other teeth, specifically 105, 204, and 205, have been loosened by the impact. We'll need to keep an eye on these to see how they heal. We also noticed some cuts on his gums.\n\nOne tooth (304) had to be removed because it was fractured at the root, which is the part of the tooth below the gum line.\n\nWe've started Braina on pain management to help him feel more comfortable. It's important to follow the prescribed medication schedule to ensure he remains as pain-free as possible during his recovery.\n\nAt home, please monitor Braina for any changes in eating or drinking habits, or if he seems to be in pain. If you notice anything unusual, please contact us immediately. We'll also need to schedule follow-up visits to monitor his progress and to perform the crown restoration on tooth 103.\n\nI know this is a lot to take in, but rest assured that we're doing everything we can to help Braina recover. We'll be here every step of the way to ensure he gets the best care possible.\n\nBest regards,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null,
+      "client_email": "Subject: Follow-Up on Braina's Recent Emergency Visit\n\nDear Tina,\n\nI hope this message finds you well. I am writing to provide a summary of Braina's emergency visit to our clinic following her unfortunate accident.\n\nDuring the visit, we conducted an oral trauma assessment due to the impact of the car accident. We found that Tooth 104 was completely avulsed and could not be reimplanted. Tooth 103 had a complicated crown fracture with pulp exposure, and we have planned a crown restoration for this tooth. Tooth 404 had an uncomplicated crown fracture.\n\nWe also noted that multiple teeth, including 105, 204, and 205, were loosened and will require monitoring. There were also soft tissue lacerations present on Braina's gums. Due to a root fracture, Tooth 304 had to be extracted.\n\nPain management was initiated during the visit to ensure Braina's comfort. \n\nPlease remember that this summary is based on our findings during the emergency visit. If you have any questions or concerns, or if Braina's condition changes, please do not hesitate to contact us immediately.\n\nThank you for entrusting Braina's care to us. We are here to support you and Braina during this challenging time.\n\nBest regards,\n\n[Your Name]\n[Your Position]\n[Your Contact Information]"
+    },
+    {
+      "id": 19,
+      "date": "2025-09-17 16:29",
+      "patient_name": "braina",
+      "client_name": "Tina",
+      "species": "Dog",
+      "breed": "Mixed",
+      "age": "3",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Emergency",
+      "template_type": "SOAP Note",
+      "original_notes": "\"Emergency visit. Hit by car 2 hours ago. Oral trauma assessment: Tooth 104 completely avulsed, cannot be reimplanted. Tooth 103 has complicated crown fracture with pulp exposure - crown restoration planned. Tooth 404 shows uncomplicated crown fracture. Multiple teeth loosened including 105, 204, 205 - require monitoring. Soft tissue lacerations present on gums. Tooth 304 extracted due to root fracture. Pain management initiated.\"",
+      "soap_note": "SUBJECTIVE: The patient, Braina, a 3-year-old neutered male mixed breed dog, was brought in for an emergency visit by the owner, Tina. The dog was hit by a car approximately 2 hours prior to the visit.\n\nOBJECTIVE: Upon oral trauma assessment, Tooth 104 was found to be completely avulsed and cannot be reimplanted. Tooth 103 has a complicated crown fracture with pulp exposure. Tooth 404 has an uncomplicated crown fracture. Multiple teeth including 105, 204, 205 are loosened and require monitoring. Soft tissue lacerations are present on the gums. Tooth 304 was extracted due to a root fracture. Pain management has been initiated.\n\nASSESSMENT: The patient has suffered multiple dental injuries including avulsion of tooth 104, complicated crown fracture of tooth 103, uncomplicated crown fracture of tooth 404, loosening of multiple teeth (105, 204, 205), and root fracture of tooth 304 leading to its extraction. Soft tissue lacerations on the gums are also present.\n\nPLAN: The plan includes monitoring the loosened teeth (105, 204, 205), and a crown restoration for tooth 103. Pain management has been initiated.",
+      "client_summary": "Dear Tina,\n\nI understand how stressful it can be when your beloved pet, Braina, has an emergency. Today, Braina was brought in after being hit by a car. We focused on assessing his oral health, as he had some injuries in his mouth.\n\nBraina lost one of his teeth (tooth 104) completely and unfortunately, we can't put it back. Another tooth (tooth 103) has a serious break that exposed the inner part of the tooth - we're planning to restore this tooth's crown to protect it. Tooth 404 has a less serious break, but we'll keep an eye on it.\n\nSeveral of Braina's teeth, specifically 105, 204, and 205, are loose. We'll need to monitor these to see if they stabilize or if further treatment is needed. Braina also has some cuts on his gums.\n\nOne of Braina's teeth (tooth 304) had to be removed because it was fractured at the root. This was necessary to prevent further pain and potential infection.\n\nWe've started Braina on pain management to help him feel more comfortable. It's important to follow the prescribed medication schedule to ensure he remains as pain-free as possible during his recovery.\n\nAt home, please monitor Braina for any changes in eating or drinking habits, or if he seems to be in pain. If you notice anything unusual, please contact us immediately. We'll also schedule follow-up appointments to check on Braina's progress and adjust his treatment plan as necessary.\n\nI know this is a difficult time for both you and Braina, but please know that we're here to provide the best care possible for him. We'll do everything we can to help him recover quickly and comfortably.\n\nBest regards,\nDr. VetScribe",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null,
+      "client_email": "Subject: Follow-Up on Braina's Recent Emergency Visit\n\nDear Tina,\n\nI hope this message finds you well. I am writing to provide a summary of Braina's recent emergency visit to our clinic.\n\nAs you are aware, Braina was brought in following a car accident. Upon examination, we found several issues related to oral trauma that required immediate attention.\n\nTooth 104 was completely avulsed and unfortunately, could not be reimplanted. Tooth 103 had a complicated crown fracture with pulp exposure, for which we have planned a crown restoration. Tooth 404 had an uncomplicated crown fracture.\n\nWe also noted that multiple teeth, specifically 105, 204, and 205, were loosened. These will require monitoring over time. There were also soft tissue lacerations present on Braina's gums.\n\nTooth 304 had to be extracted due to a root fracture. Please be assured that we have initiated pain management for Braina to ensure her comfort during this time.\n\nWe understand that this is a stressful time for both you and Braina. Our team is committed to providing the best care possible for her. Please do not hesitate to reach out if you have any questions or concerns about Braina's condition or her ongoing treatment plan.\n\nThank you for entrusting us with Braina's care. We look forward to seeing her at her next appointment for the crown restoration and to monitor her progress.\n\nBest regards,\n\n[Your Name]\n[Your Position]",
+      "dental_chart_data": {
+        "teeth_layout": {
+          "upper_right": [
+            "101",
+            "102",
+            "103",
+            "104",
+            "105",
+            "106",
+            "107",
+            "108",
+            "109",
+            "110"
+          ],
+          "upper_left": [
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211"
+          ],
+          "lower_right": [
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "411"
+          ],
+          "lower_left": [
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309",
+            "310"
+          ]
+        },
+        "conditions": {
+          "normal": {
+            "color": "#e5e7eb",
+            "label": "Normal",
+            "priority": 0
+          },
+          "gingivitis_mild": {
+            "color": "#fbbf24",
+            "label": "Mild Gingivitis",
+            "priority": 1
+          },
+          "gingivitis_moderate": {
+            "color": "#f97316",
+            "label": "Moderate Gingivitis",
+            "priority": 2
+          },
+          "gingivitis_severe": {
+            "color": "#dc2626",
+            "label": "Severe Gingivitis",
+            "priority": 3
+          },
+          "calculus_light": {
+            "color": "#d1d5db",
+            "label": "Light Calculus",
+            "priority": 1
+          },
+          "calculus_moderate": {
+            "color": "#9ca3af",
+            "label": "Moderate Calculus",
+            "priority": 2
+          },
+          "calculus_heavy": {
+            "color": "#4b5563",
+            "label": "Heavy Calculus",
+            "priority": 3
+          },
+          "pocket_4mm": {
+            "color": "#3b82f6",
+            "label": "4mm Pocket",
+            "priority": 2
+          },
+          "pocket_5mm": {
+            "color": "#1d4ed8",
+            "label": "5mm Pocket",
+            "priority": 3
+          },
+          "pocket_6mm": {
+            "color": "#1e40af",
+            "label": "6+ mm Pocket",
+            "priority": 4
+          },
+          "fracture": {
+            "color": "#7c2d12",
+            "label": "Fracture",
+            "priority": 4
+          },
+          "missing": {
+            "color": "#000000",
+            "label": "Missing",
+            "priority": 5
+          },
+          "extracted": {
+            "color": "#ef4444",
+            "label": "Extracted Today",
+            "priority": 5
+          },
+          "crown": {
+            "color": "#ffd700",
+            "label": "Crown/Restoration",
+            "priority": 1
+          }
+        },
+        "findings": {
+          "104": "extracted",
+          "103": "fracture",
+          "404": "fracture",
+          "105": "loosened",
+          "204": "loosened",
+          "205": "loosened",
+          "304": "extracted"
+        },
+        "species": "Dog"
+      }
+    },
+    {
+      "id": 20,
+      "date": "2025-09-17 17:49",
+      "patient_name": "buddy",
+      "client_name": "Briana",
+      "species": "Cat",
+      "breed": "frwench bulldog",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Wellness Exam",
+      "template_type": "SOAP Note",
+      "original_notes": "Comprehensive oral health assessment and treatment: buddy is lethargic low in energy presented for dental prophylaxis under general anesthesia. Pre-anesthetic bloodwork normal.\nOral examination reveals moderate to severe periodontal disease. Tooth 104 shows stage 2 periodontal disease with 4mm pockets and moderate gingivitis. Tooth 108 has heavy calculus accumulation with 5mm pockets requiring scaling and root planing.\nTooth 204 extracted today due to severe mobility and 8mm pocket depth with bone loss. Tooth 208 shows crown fracture exposing pulp - endodontic therapy recommended but owner declined, tooth extracted.\nLower jaw findings: Tooth 309 has moderate calculus with 4mm pockets, treated with ultrasonic scaling. Tooth 310 shows early gingivitis, scaling performed. Tooth 404 has severe periodontal disease with 7mm pockets and furcation involvement - extracted.\nTooth 408 and 409 show light calculus buildup, routine cleaning completed. No other significant findings in remaining dentition.\nPost-operative care includes pain management with carprofen, soft diet for one week, and chlorhexidine rinse twice daily. Recheck in two weeks to assess healing. Home dental care protocol discussed with owner including daily brushing and dental chews.\"\nThis script contains specific tooth numbers and conditions that should trigger",
+      "soap_note": "SUBJECTIVE:\nOwner reports that Buddy, a 2-year-old neutered male French Bulldog, has been lethargic and low in energy. The appointment was scheduled for a wellness exam and dental prophylaxis under general anesthesia.\n\nOBJECTIVE:\nBuddy weighs 20kg. Pre-anesthetic bloodwork is normal. Oral examination reveals moderate to severe periodontal disease. Tooth 104 shows stage 2 periodontal disease with 4mm pockets and moderate gingivitis. Tooth 108 has heavy calculus accumulation with 5mm pockets. Tooth 204 shows severe mobility and 8mm pocket depth with bone loss and was extracted. Tooth 208 has a crown fracture exposing pulp and was also extracted. Lower jaw findings include: Tooth 309 with moderate calculus and 4mm pockets, Tooth 310 with early gingivitis, and Tooth 404 with severe periodontal disease, 7mm pockets, and furcation involvement - this tooth was extracted. Teeth 408 and 409 show light calculus buildup. No other significant findings in remaining dentition.\n\nASSESSMENT:\nBuddy has moderate to severe periodontal disease. Specific teeth show varying degrees of periodontal disease, calculus accumulation, gingivitis, and bone loss. Tooth 204, 208, and 404 were extracted due to severe conditions.\n\nPLAN:\nPost-operative care includes pain management with carprofen, a soft diet for one week, and chlorhexidine rinse twice daily. A recheck is scheduled in two weeks to assess healing. The owner has been advised on a home dental care protocol, which includes daily brushing and dental chews.",
+      "client_summary": "Dear Briana,\n\nDuring Buddy's wellness exam today, we focused on his oral health. We noticed that Buddy has been a bit low on energy, which can sometimes be a sign of dental issues. We performed a thorough dental cleaning under general anesthesia for his comfort.\n\nWe found that Buddy has moderate to severe gum disease. This was evident in several of his teeth, which had signs of inflammation and deep pockets between the teeth and gums. This is a common issue in pets and can cause discomfort and other health problems if not addressed.\n\nOne of his teeth (tooth 204) was very loose and had significant bone loss around it, so we decided to remove it. Another tooth (tooth 208) had a broken crown exposing the inner part of the tooth. We suggested a treatment to save the tooth, but after discussing it with you, we decided to extract it.\n\nWe also found early signs of gum disease in tooth 310, and severe gum disease in tooth 404, which we also extracted. The rest of his teeth had some tartar build-up, which we cleaned.\n\nAfter the procedure, we've started Buddy on pain medication to keep him comfortable. For the next week, we recommend feeding him a soft diet to avoid discomfort while eating. We also provided a special mouth rinse to use twice daily to help keep his mouth clean and promote healing.\n\nIn two weeks, we'd like to see Buddy again to check on his healing progress. At home, it's important to continue with a dental care routine, including daily tooth brushing and dental chews, to help prevent future dental issues.\n\nWe understand that this is a lot of information to take in, and it can be concerning to hear about these issues. However, with the steps we've taken today and the ongoing care plan, Buddy is on the path to improved oral health. \n\nPlease don't hesitate to reach out if you have any questions or concerns.\n\nBest,\n[Your Name]",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null,
+      "client_email": "Subject: Follow-Up on Buddy's Recent Dental Procedure\n\nDear Briana,\n\nI hope this message finds you well. I am writing to provide a summary of Buddy's recent dental visit at our clinic.\n\nDuring Buddy's comprehensive oral health assessment and treatment, we noted that he was lethargic and low in energy. His pre-anesthetic bloodwork was normal, and we proceeded with dental prophylaxis under general anesthesia.\n\nUpon oral examination, we found moderate to severe periodontal disease. Specifically, tooth 104 showed stage 2 periodontal disease with 4mm pockets and moderate gingivitis, and tooth 108 had heavy calculus accumulation with 5mm pockets. These conditions required scaling and root planing.\n\nTooth 204 was extracted due to severe mobility and 8mm pocket depth with bone loss. Tooth 208 had a crown fracture exposing the pulp. We recommended endodontic therapy, but as you declined, we proceeded with extraction.\n\nIn the lower jaw, tooth 309 had moderate calculus with 4mm pockets and was treated with ultrasonic scaling. Tooth 310 showed early signs of gingivitis and was scaled. Tooth 404 had severe periodontal disease with 7mm pockets and furcation involvement, so it was extracted. Teeth 408 and 409 had light calculus buildup and were cleaned routinely. No other significant findings were noted in the remaining dentition.\n\nPost-operative care for Buddy includes pain management with carprofen, a soft diet for one week, and a chlorhexidine rinse twice daily. We have scheduled a recheck in two weeks to assess his healing progress. We also discussed a home dental care protocol with you, which includes daily brushing and dental chews.\n\nPlease do not hesitate to reach out if you have any questions or concerns about Buddy's recovery or his home dental care. We are here to support you and Buddy during this healing process.\n\nBest regards,\n\n[Your Name]\n[Your Position]\n[Your Contact Information]"
+    },
+    {
+      "id": 21,
+      "date": "2025-09-17 17:50",
+      "patient_name": "buddy",
+      "client_name": "Briana",
+      "species": "Cat",
+      "breed": "frwench bulldog",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "appointment_type": "Wellness Exam",
+      "template_type": "SOAP Note",
+      "original_notes": "Comprehensive oral health assessment and treatment: buddy is lethargic low in energy presented for dental prophylaxis under general anesthesia. Pre-anesthetic bloodwork normal.\nOral examination reveals moderate to severe periodontal disease. Tooth 104 shows stage 2 periodontal disease with 4mm pockets and moderate gingivitis. Tooth 108 has heavy calculus accumulation with 5mm pockets requiring scaling and root planing.\nTooth 204 extracted today due to severe mobility and 8mm pocket depth with bone loss. Tooth 208 shows crown fracture exposing pulp - endodontic therapy recommended but owner declined, tooth extracted.\nLower jaw findings: Tooth 309 has moderate calculus with 4mm pockets, treated with ultrasonic scaling. Tooth 310 shows early gingivitis, scaling performed. Tooth 404 has severe periodontal disease with 7mm pockets and furcation involvement - extracted.\nTooth 408 and 409 show light calculus buildup, routine cleaning completed. No other significant findings in remaining dentition.\nPost-operative care includes pain management with carprofen, soft diet for one week, and chlorhexidine rinse twice daily. Recheck in two weeks to assess healing. Home dental care protocol discussed with owner including daily brushing and dental chews.\"\nThis script contains specific tooth numbers and conditions that should trigger",
+      "soap_note": "SUBJECTIVE: \nThe patient, Buddy, a 2-year-old neutered male French Bulldog, presented for a wellness exam and dental prophylaxis under general anesthesia. The owner, Briana, reported that Buddy has been lethargic and low in energy.\n\nOBJECTIVE: \nBuddy weighs 20kg. Pre-anesthetic bloodwork was normal. Oral examination revealed moderate to severe periodontal disease. Tooth 104 showed stage 2 periodontal disease with 4mm pockets and moderate gingivitis. Tooth 108 had heavy calculus accumulation with 5mm pockets. Tooth 204 was severely mobile with an 8mm pocket depth and bone loss. Tooth 208 had a crown fracture exposing pulp. Lower jaw findings included tooth 309 with moderate calculus and 4mm pockets, tooth 310 with early gingivitis, and tooth 404 with severe periodontal disease, 7mm pockets, and furcation involvement. Teeth 408 and 409 had light calculus buildup. No other significant findings were noted in the remaining dentition.\n\nASSESSMENT: \nBuddy has moderate to severe periodontal disease, with specific teeth showing varying degrees of disease and calculus accumulation. Tooth 204 and 404 were extracted due to severe mobility and periodontal disease, respectively. Tooth 208 was also extracted due to a crown fracture exposing pulp.\n\nPLAN: \nPost-operative care for Buddy includes pain management with carprofen, a soft diet for one week, and chlorhexidine rinse twice daily. A recheck is scheduled in two weeks to assess healing. A home dental care protocol was discussed with the owner, which includes daily brushing and dental chews.",
+      "client_summary": "Dear Briana,\n\nDuring Buddy's wellness exam today, we focused on his oral health. We noticed that Buddy has been a bit low on energy, which can sometimes be a sign of dental issues. We performed a thorough dental cleaning and assessment while he was under general anesthesia for his comfort.\n\nWe found that Buddy has moderate to severe gum disease. This was evident in several of his teeth, which had signs of inflammation and pockets where the gum pulls away from the tooth. This can be a bit concerning as it can lead to tooth loss and other health issues if not treated.\n\nOne of his teeth (tooth 204) was quite loose and had significant gum recession, so we decided it was best to remove it. Another tooth (tooth 208) had a broken top part, exposing the inner part of the tooth. We suggested a treatment to save the tooth, but since you preferred not to proceed with this, we extracted the tooth to prevent any further discomfort for Buddy.\n\nWe also found some early signs of gum inflammation on tooth 310, and severe gum disease on tooth 404, which we also removed. The rest of his teeth had some tartar build-up, which we cleaned.\n\nAfter the procedure, we've started Buddy on some pain medication to keep him comfortable. For the next week, we recommend feeding him a soft diet to help his mouth heal. We also provided a special mouth rinse to use twice a day, which will help keep his mouth clean and aid in healing.\n\nIn two weeks, we'd like to see Buddy again to check how his mouth is healing. We also discussed a home dental care routine to help prevent future dental issues. This includes daily tooth brushing and giving him dental chews.\n\nIt's important to remember that dental health is a key part of Buddy's overall health. By keeping up with his dental care at home and regular check-ups, we can help ensure he stays happy and healthy.\n\nPlease don't hesitate to reach out if you have any questions or concerns.\n\nBest,\n[Your Name]",
+      "consent": "I confirm that the client has been informed and has consented to this appointment being recorded for medical documentation purposes, including transcription by AI services.",
+      "transcribed_audio": null
+    }
+  ],
+  "patients": [
+    {
+      "name": "Noah",
+      "client": "Leo",
+      "species": "Dog",
+      "breed": "French Bull dog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "added_date": "2025-09-17"
+    },
+    {
+      "name": "Buddy",
+      "client": "Amelia ",
+      "species": "Dog",
+      "breed": "french bull dog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "15kg",
+      "added_date": "2025-09-17"
+    },
+    {
+      "name": "Bud ",
+      "client": "Leo",
+      "species": "Dog",
+      "breed": "french bulldog ",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "23",
+      "added_date": "2025-09-17"
+    },
+    {
+      "name": "Gooby",
+      "client": "Leo",
+      "species": "Dog",
+      "breed": "french bulldog ",
+      "age": "2 ",
+      "sex": "Male Neutered",
+      "weight": "15",
+      "added_date": "2025-09-17"
+    },
+    {
+      "name": "leo",
+      "client": "john smith",
+      "species": "Dog",
+      "breed": "french bull dog ",
+      "age": "",
+      "sex": "Male Neutered",
+      "weight": "",
+      "added_date": "2025-09-17"
+    },
+    {
+      "name": "Noahboy",
+      "client": "Johnny Walker",
+      "species": "Dog",
+      "breed": "french Bulldog",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "15",
+      "added_date": "2025-09-17"
+    },
+    {
+      "name": "Muimui",
+      "client": "Cyn",
+      "species": "Dog",
+      "breed": "mixed ",
+      "age": "9",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "added_date": "2025-09-17"
+    },
+    {
+      "name": "Briana",
+      "client": "Jimmy",
+      "species": "Dog",
+      "breed": "french bulldog ",
+      "age": "3 years old ",
+      "sex": "Male Neutered",
+      "weight": "20",
+      "added_date": "2025-09-17"
+    },
+    {
+      "name": "braina",
+      "client": "Tina",
+      "species": "Dog",
+      "breed": "Mixed",
+      "age": "3",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "added_date": "2025-09-17"
+    },
+    {
+      "name": "buddy",
+      "client": "Briana",
+      "species": "Cat",
+      "breed": "frwench bulldog",
+      "age": "2",
+      "sex": "Male Neutered",
+      "weight": "20kg",
+      "added_date": "2025-09-17"
+    }
+  ]
+}
